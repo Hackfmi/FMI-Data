@@ -1,0 +1,5339 @@
+[
+  {
+    "teacherId": 1,
+    "teacherName": "Август Христов Кабакчиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Август Христов Кабакчиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 2,
+    "teacherName": "Аделина Алексиева",
+    "teacherTitle": "ст.ас. ",
+    "teacherEmail": "adelina@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Аделина Пламенова Алексиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 3,
+    "teacherName": "Азнив Каспарян",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "kasparia@fmi.uni-sofia.bg",
+    "department": "Алг",
+    "teacherFullname": "Азнив Киркор Каспарян",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 4,
+    "teacherName": "Албена Търнина",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Албена Петрова Търнина",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 5,
+    "teacherName": "Александра Соскова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "asoskova@fmi.uni-sofia.bg",
+    "department": "МЛП",
+    "teacherFullname": "Александра Андреева Соскова",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 6,
+    "teacherName": "Александър Александров",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "ava@fmi.uni-sofia.bg",
+    "department": "КАТ",
+    "teacherFullname": "Александър Василев Александров",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 7,
+    "teacherName": "Александър Велин",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Александър Владимиров Велин",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 8,
+    "teacherName": "Александър Петков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Александър Владимиров Петков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 9,
+    "teacherName": "Александър Пенев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Александър Димитров Пенев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 10,
+    "teacherName": "Александър Димов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "aldi@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Александър Димов Димов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 11,
+    "teacherName": "Александър Зейнелов",
+    "teacherTitle": "none",
+    "teacherEmail": "alexm.vip@gmail.com",
+    "department": "КИ",
+    "teacherFullname": "Александър Мартинов Зейнелов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 12,
+    "teacherName": "Александър Григоров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "Alexander_Grigorov@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Александър Тодоров Григоров",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 13,
+    "teacherName": "Ана Авджиева",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Ана Александрова Авджиева",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 14,
+    "teacherName": "Анатолий Буда",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Анатолий Олегович Буда",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 15,
+    "teacherName": "Ангел Дичев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "ditchev@fmi.uni-sofia.bg",
+    "department": "МЛП",
+    "teacherFullname": "Ангел Василев Дичев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 16,
+    "teacherName": "Ангел Ангелов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Ангел Георгиев Ангелов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 17,
+    "teacherName": "Ангел Живков",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "zhivkov@fmi.uni-sofia.bg",
+    "department": "ДУ",
+    "teacherFullname": "Ангел Иванов Живков",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 18,
+    "teacherName": "Ангел Ангелов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Ангел Илиев Ангелов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 19,
+    "teacherName": "Ангел Иванов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Ангел Методиев Иванов",
+    "teacherPosition": "мат."
+  },
+  {
+    "teacherId": 20,
+    "teacherName": "Ангел Попов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Ангел Петров Попов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 21,
+    "teacherName": "Ангел Попов",
+    "teacherTitle": "проф. д.фз.н.",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Ангел Попов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 22,
+    "teacherName": "Ангелина Йотова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "yotova@fmi.uni-sofia.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Ангелина Иванова Йотова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 23,
+    "teacherName": "Андрей Василев",
+    "teacherTitle": " д-р",
+    "teacherEmail": "avassilev@fmi.uni-sofia.bg ",
+    "department": "ДУ",
+    "teacherFullname": "Андрей Андреев Василев",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 24,
+    "teacherName": "Андрей Бъчваров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Андрей Иванов Бъчваров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 25,
+    "teacherName": "Андрей Сариев",
+    "teacherTitle": "none",
+    "teacherEmail": "acsariev@gmail.com",
+    "department": "МЛП",
+    "teacherFullname": "Андрей Константинов Сариев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 26,
+    "teacherName": "Андрей Русков",
+    "teacherTitle": "none",
+    "teacherEmail": "andrey.ruskov@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Андрей Петков Русков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 27,
+    "teacherName": "Андрей Андреев",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Андрей Стефанов Андреев",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 28,
+    "teacherName": "Анелия Тинчева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Анелия Тенчева Тинчева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 29,
+    "teacherName": "Анета Караиванова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "anet@parallel.bas.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Анета Недева Караиванова",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 30,
+    "teacherName": "Ани Герджикова",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Ани Владимирова Герджикова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 31,
+    "teacherName": "Ани Василева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Д",
+    "teacherFullname": "Ани Николова Василева",
+    "teacherPosition": "Инспектор УПД"
+  },
+  {
+    "teacherId": 32,
+    "teacherName": "Анна Попова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Анна Александрова Попова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 33,
+    "teacherName": "Антон Зиновиев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Антон Кирилов Зиновиев",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 34,
+    "teacherName": "Антон Чолаков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Антон Красимиров Чолаков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 35,
+    "teacherName": "Антон Петков",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "anton@fmi.uni-sofia.bg",
+    "department": "ИС",
+    "teacherFullname": "Антон Любенов Петков",
+    "teacherPosition": "Ръководител катедра"
+  },
+  {
+    "teacherId": 36,
+    "teacherName": "Антон Николов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Антон Юриев Николов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 37,
+    "teacherName": "Антония Арсова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Антония Любомирова Арсова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 38,
+    "teacherName": "Асен Добринов Александров",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Асен Добринов Александров",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 39,
+    "teacherName": "Асен Божилов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Асен Иванов Божилов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 40,
+    "teacherName": "Ася Русева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Ася Петрова Русева",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 41,
+    "teacherName": "Атанас Раденски",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Атанас Атанасов Раденски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 42,
+    "teacherName": "Атанас Георгиев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Атанас Георгиев Георгиев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 43,
+    "teacherName": "Атанас Иванов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Атанас Иванов Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 44,
+    "teacherName": "Атанас Терзиев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Атанас Иванов Терзиев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 45,
+    "teacherName": "Атанас Боиклиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Атанас Петров Боиклиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 46,
+    "teacherName": "Атанас Семерджиев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Атанас Цветанов Семерджиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 47,
+    "teacherName": "Благовест Шишков",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Благовест Борисов Шишков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 48,
+    "teacherName": "Богдан Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Богдан Мирославов Георгиев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 49,
+    "teacherName": "Богдан Шандурков",
+    "teacherTitle": "none",
+    "teacherEmail": "bogdan.shandurkov@hp.com",
+    "department": "ИТ",
+    "teacherFullname": "Богдан Николаев Шандурков",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 50,
+    "teacherName": "Богдан Александров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Богдан Тодоров Александров",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 51,
+    "teacherName": "Богдана Георгиева",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Богдана Атанасова Георгиева ",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 52,
+    "teacherName": "Божидар Станчев",
+    "teacherTitle": " д-р",
+    "teacherEmail": "bstanchev@nemetschek.net",
+    "department": "ИТ",
+    "teacherFullname": "Божидар Ангелов Станчев",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 53,
+    "teacherName": "Божидар Сендов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "bojo@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Божидар Христов Сендов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 54,
+    "teacherName": "Боил Мусев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Боил Михайлов Мусев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 55,
+    "teacherName": "Бойко Блажев Банчев",
+    "teacherTitle": "н.с. ",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Бойко Блажев Банчев",
+    "teacherPosition": "н.с"
+  },
+  {
+    "teacherId": 56,
+    "teacherName": "Бойко Денчев",
+    "teacherTitle": " д-р",
+    "teacherEmail": "b.denchev@abv.bg",
+    "department": "Неопр",
+    "teacherFullname": "Бойко Денчев Денчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 57,
+    "teacherName": "Бойчо Кокинов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Бойчо Николов Кокинов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 58,
+    "teacherName": "Боно Нончев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Боно Стойчев Нончев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 59,
+    "teacherName": "Борис Коцев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "bkotzev@fmi.uni-sofia.bg",
+    "department": "Алг",
+    "teacherFullname": "Борис Василев Коцев",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 60,
+    "teacherName": "Борислав Боянов",
+    "teacherTitle": "акад. д.м.н",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Борислав Дечев Боянов",
+    "teacherPosition": "акад."
+  },
+  {
+    "teacherId": 61,
+    "teacherName": "Борислав Варадинов",
+    "teacherTitle": "none",
+    "teacherEmail": "borislav.varadinov@hp.com",
+    "department": "ИТ",
+    "teacherFullname": "Борислав Евгениев Варадинов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 62,
+    "teacherName": "Борислав Ризов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Борислав Красимиров Ризов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 63,
+    "teacherName": "Борислав Драганов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Борислав Радков Драганов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 64,
+    "teacherName": "Борислав Йолов",
+    "teacherTitle": "none",
+    "teacherEmail": "b.yolov@stone-bg.net",
+    "department": "ИТ",
+    "teacherFullname": "Борислав Стоянов Йолов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 65,
+    "teacherName": "Борислав Тодоров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Борислав Съботинов Тодоров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 66,
+    "teacherName": "Боян Киров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Боян Кирилов Киров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 67,
+    "teacherName": "Боян Бончев",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "bbontchev@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Боян Паскалев Бончев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 68,
+    "teacherName": "Боян Шейтанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Боян Пламенов Шейтанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 69,
+    "teacherName": "В.Каишев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "В.Каишев",
+    "teacherPosition": "ст.н.с"
+  },
+  {
+    "teacherId": 70,
+    "teacherName": "Валдемар Цанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Валдемар Василев Цанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 71,
+    "teacherName": "Валентин Горанко",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Валентин Горанко",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 72,
+    "teacherName": "Валентин Павлов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Валентин Николаев Павлов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 73,
+    "teacherName": "Валентин Христов",
+    "teacherTitle": "none",
+    "teacherEmail": "V.Hristov@ibs.bg",
+    "department": "Неопр",
+    "teacherFullname": "Валентин Пламенов Христов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 74,
+    "teacherName": "Валентина Попиванова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Валентина Иванова Попиванова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 75,
+    "teacherName": "Валерия Симеонова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Валерия Николаева Симеонова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 76,
+    "teacherName": "Ваньо Пейчев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Ваньо Георгиев Пейчев",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 77,
+    "teacherName": "Ваня Банева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Ваня Асенова Сланчева Банева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 78,
+    "teacherName": "Ваня Хаджийски",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "hadzhijski@fmi.uni-sofia.bg",
+    "department": "КАТ",
+    "teacherFullname": "Ваня Христов Хаджийски",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 79,
+    "teacherName": "Ваня Петрова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Ваня Цветанова Петрова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 80,
+    "teacherName": "Васил Константинов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Васил Боянов Константинов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 81,
+    "teacherName": "Васил Цанов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "mmf_mag@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Васил Валдемаров Цанов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 82,
+    "teacherName": "Васил Цанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Васил Василев Цанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 83,
+    "teacherName": "Васил Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Васил Георгиев",
+    "teacherPosition": "д-р"
+  },
+  {
+    "teacherId": 84,
+    "teacherName": "Васил Цунижев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "v.georgiev@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Васил Георгиев Цунижев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 85,
+    "teacherName": "Васил Гочев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Васил Станев Гочев",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 86,
+    "teacherName": "Васил Василев",
+    "teacherTitle": "ст.н.с. I д-р",
+    "teacherEmail": "vvassilev@iinf.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Васил Стефанов Василев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 87,
+    "teacherName": "Васил Василев",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "v.vasilev@btinternet.com",
+    "department": "Неопр",
+    "teacherFullname": "Васил Тодоров Василев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 88,
+    "teacherName": "Василена Накова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Василена Костадинова Накова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 89,
+    "teacherName": "Василий Тодоров",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Василий Емилов Тодоров",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 90,
+    "teacherName": "Вая Ракидзи",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Вая Теохари Ракидзи",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 91,
+    "teacherName": "Величко Сарев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Величко Гинев Сарев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 92,
+    "teacherName": "Венелин Черногоров",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "wily@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Венелин Георгиев Черногоров",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 93,
+    "teacherName": "Вера Бехар",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Вера Петрова Бехар",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 94,
+    "teacherName": "Весел Гагов",
+    "teacherTitle": "none",
+    "teacherEmail": "Vessel.Gagov@softwareag.com",
+    "department": "Неопр",
+    "teacherFullname": "Весел Николаев Гагов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 95,
+    "teacherName": "Весела Стоименова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "stoimenova@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Весела Кирилова Стоименова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 96,
+    "teacherName": "Веселин Гушев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "v_gushev@fmi.uni-sofia.bg",
+    "department": "ОМИ",
+    "teacherFullname": "Веселин Андреев Гушев",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 97,
+    "teacherName": "Веселин Кюркчиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Веселин Николаев Кюркчиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 98,
+    "teacherName": "Веселин Целков",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "vtselkov@gmail.com",
+    "department": "СТ",
+    "teacherFullname": "Веселин Ценов Целков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 99,
+    "teacherName": "Веселина Буюклиева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Веселина Николаева Буюклиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 100,
+    "teacherName": "Веселка Михова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Веселка Маринова Михова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 101,
+    "teacherName": "Вивиан Балиганд",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Вивиан Виктор Балиганд",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 102,
+    "teacherName": "Владимир Кьовторов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Владимир Андонов Кьовторов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 103,
+    "teacherName": "Владимир Атанасов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Владимир Атанасов Атанасов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 104,
+    "teacherName": "Владимир Попов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Владимир Атанасов Попов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 105,
+    "teacherName": "Владимир Лилов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "vlilov@rila.com",
+    "department": "СТ",
+    "teacherFullname": "Владимир Борисов Лилов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 106,
+    "teacherName": "Владимир Димитров",
+    "teacherTitle": "н.с. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Владимир Георгиев Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 107,
+    "teacherName": "Владимир Бабев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Владимир Димитров Бабев",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 108,
+    "teacherName": "Владимир Тончев",
+    "teacherTitle": "проф. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Владимир Димитров Тончев",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 109,
+    "teacherName": "Владимир Чакалов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Владимир Любомиров Чакалов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 110,
+    "teacherName": "Владимир Герджиков",
+    "teacherTitle": "ст.н.с. I д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Владимир Стефанов Герджиков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 111,
+    "teacherName": "Владимир Димитров",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "cht@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Владимир Тодоров Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 112,
+    "teacherName": "Владимир Сотиров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Владимир Христов Сотиров",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 113,
+    "teacherName": "Владимир Христов",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Владимир Христов Христов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 114,
+    "teacherName": "Владислав Ненчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Владислав Владимиров Ненчев",
+    "teacherPosition": "хоноруван"
+  },
+  {
+    "teacherId": 115,
+    "teacherName": "Владислав Денишев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Владислав Красимиров Денишев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 116,
+    "teacherName": "Владислав Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Владислав Светославов Георгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 117,
+    "teacherName": "Волин Карагьозов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Волин Атанасов Карагьозов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 118,
+    "teacherName": "Галина Радева",
+    "teacherTitle": "н.с. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Галина Симеонова Радева",
+    "teacherPosition": "н.с."
+  },
+  {
+    "teacherId": 119,
+    "teacherName": "Галина Димитрова",
+    "teacherTitle": "ст.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Галина Тодорова Димитрова",
+    "teacherPosition": "ст.асистент"
+  },
+  {
+    "teacherId": 120,
+    "teacherName": "Галя Ангелова",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Галя Младенова Ангелова",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 121,
+    "teacherName": "Генадий Агре",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "agre@iinf.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Генадий Павлович Агре",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 122,
+    "teacherName": "Гено Дачев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "gdachev@fmi.uni-sofia.bg",
+    "department": "ДУ",
+    "teacherFullname": "Гено Даков Дачев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 123,
+    "teacherName": "Гено Николов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "geno@fmi.uni-sofia.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Гено Петков Николов",
+    "teacherPosition": "р-л катедра"
+  },
+  {
+    "teacherId": 124,
+    "teacherName": "Генчо Стайнов",
+    "teacherTitle": "ст.н.с. I д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Генчо Стоянов Стайнов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 125,
+    "teacherName": "Георги Найденов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Георги Асенов Найденов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 126,
+    "teacherName": "Георги Александров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Георги Атанасов Александров",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 127,
+    "teacherName": "Георги Пенчев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Георги Владимиров Пенчев",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 128,
+    "teacherName": "Георги Димитров",
+    "teacherTitle": " д-р",
+    "teacherEmail": "george.dimitrov@dpc.bg",
+    "department": "СТ",
+    "teacherFullname": "Георги Георгиев Димитров",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 129,
+    "teacherName": "Георги Павлов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Георги Димитров Павлов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 130,
+    "teacherName": "Георги Димов",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Георги Добромиров Димов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 131,
+    "teacherName": "Георги Николов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Георги Емилов Николов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 132,
+    "teacherName": "Георги Иванов Георгиев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "skeleta@gmail.com",
+    "department": "ИС",
+    "teacherFullname": "Георги Иванов Георгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 133,
+    "teacherName": "Георги Калушев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "g_kalushev@fmi.uni-sofia.bg",
+    "department": "Неопр",
+    "teacherFullname": "Георги Иванов Калушев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 134,
+    "teacherName": "Георги Глухчев",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "gluhchev@iinf.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Георги Йорданов Глухчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 135,
+    "teacherName": "Георги Димитров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Георги Кирилов Димитров",
+    "teacherPosition": "математик"
+  },
+  {
+    "teacherId": 136,
+    "teacherName": "Георги Генов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Георги Кузманов Генов",
+    "teacherPosition": "Ст.н.с. II степен"
+  },
+  {
+    "teacherId": 137,
+    "teacherName": "Георги Илиев",
+    "teacherTitle": " д.м.н",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Георги Любомиров Илиев",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 138,
+    "teacherName": "Георги Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Георги Маринов Георгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 139,
+    "teacherName": "Георги Михайлов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Георги Николов Михайлов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 140,
+    "teacherName": "Георги Пеев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Георги Павлинов Пеев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 141,
+    "teacherName": "Георги Симидчиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Георги Проданов Симидчиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 142,
+    "teacherName": "Георги Гачев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Георги Стамов Гачев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 143,
+    "teacherName": "Георги Къдрев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Георги Христов Къдрев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 144,
+    "teacherName": "Георги Пенков",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Георги Чавдаров Пенков",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 145,
+    "teacherName": "Гергана Енева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Гергана Великова Енева",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 146,
+    "teacherName": "Гергана Бенчева",
+    "teacherTitle": "н.с. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Гергана Иванова Бенчева",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 147,
+    "teacherName": "Геске",
+    "teacherTitle": "проф. ",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Геске",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 148,
+    "teacherName": "Горан Ангелов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Горан Владимиров Ангелов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 149,
+    "teacherName": "Грозьо Иванов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Грозьо Станилов Иванов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 150,
+    "teacherName": "Гурко Баликов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Гурко Илиев Баликов",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 151,
+    "teacherName": "Д. Николова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Д. Николова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 152,
+    "teacherName": "Д.Гелев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Д.Гелев",
+    "teacherPosition": "н.с"
+  },
+  {
+    "teacherId": 153,
+    "teacherName": "Данаил Стоянов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Данаил Михайлов Стоянов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 154,
+    "teacherName": "Даниела Попова",
+    "teacherTitle": "доц. ",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Даниела Бориславова Попова",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 155,
+    "teacherName": "Даниела Табакова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Даниела Йорданова Табакова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 156,
+    "teacherName": "Дафина Петкова",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Дафина Йорданова Петкова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 157,
+    "teacherName": "ДАФИНКА МИТЕВА",
+    "teacherTitle": "none",
+    "teacherEmail": "dafinca@ucc.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "ДАФИНКА САВОВА МИТЕВА",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 158,
+    "teacherName": "Делян Савчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Делян Боянов Савчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 159,
+    "teacherName": "Делян Калчев",
+    "teacherTitle": "none",
+    "teacherEmail": "delyank@gmail.com",
+    "department": "ЧМА",
+    "teacherFullname": "Делян Желев Калчев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 160,
+    "teacherName": "Денислав Пешев",
+    "teacherTitle": "none",
+    "teacherEmail": "denislav.peshev@hp.com",
+    "department": "ИТ",
+    "teacherFullname": "Денислав Евгениев Пешев",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 161,
+    "teacherName": "Деница Григорова",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Деница Парашкевова Григорова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 162,
+    "teacherName": "Десислава Рачева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Десислава Асенова Рачева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 163,
+    "teacherName": "Десислава Петрова-Антонова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "d.petrova@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Десислава Георгиева Петрова-Антонова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 164,
+    "teacherName": "Десислава Василева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Десислава Дакова Василева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 165,
+    "teacherName": "Десислава Статева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Десислава Емилова Статева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 166,
+    "teacherName": "Десислава Гушева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Д",
+    "teacherFullname": "Десислава Иванова Гушева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 167,
+    "teacherName": "Десислава Колева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ЛММИ~~",
+    "teacherFullname": "Десислава Николова Колева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 168,
+    "teacherName": "Деян Палежев",
+    "teacherTitle": " д-р",
+    "teacherEmail": "dean.palejev@yale.edu",
+    "department": "ВОИС",
+    "teacherFullname": "Деян Йорданов Палежев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 169,
+    "teacherName": "Диана Левченко",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Диана Василева Левченко",
+    "teacherPosition": "пенсионер"
+  },
+  {
+    "teacherId": 170,
+    "teacherName": "Диана Пенчева",
+    "teacherTitle": "ст.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Диана Георгиева Пенчева",
+    "teacherPosition": "ст. асистент"
+  },
+  {
+    "teacherId": 171,
+    "teacherName": "Диана Берберова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Диана Иванова Берберова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 172,
+    "teacherName": "Диана Радкова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Диана Илиева Радкова",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 173,
+    "teacherName": "Диана Раковска",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Диана Петкова Раковска",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 174,
+    "teacherName": "Димитрина Ставрова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "stavrova@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Димитрина Нинова Ставрова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 175,
+    "teacherName": "Димитър Шиячки",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ЛИО",
+    "teacherFullname": "Димитър Асенов Шиячки",
+    "teacherPosition": "спец. ПО"
+  },
+  {
+    "teacherId": 176,
+    "teacherName": "Димитър Василев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Димитър Василев Василев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 177,
+    "teacherName": "Димитър Тренев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Димитър Василев Тренев",
+    "teacherPosition": "мат."
+  },
+  {
+    "teacherId": 178,
+    "teacherName": "Димитър Атанасов",
+    "teacherTitle": "ст.ас. ",
+    "teacherEmail": "datanasov@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Димитър Владиславов Атанасов",
+    "teacherPosition": "Старши асистент"
+  },
+  {
+    "teacherId": 179,
+    "teacherName": "Димитър Скордев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Димитър Генчев Скордев",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 180,
+    "teacherName": "Димитър Димитров",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Димитър Георгиев Димитров",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 181,
+    "teacherName": "Димитър Димитров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Димитър Даринчев Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 182,
+    "teacherName": "Димитър Добрев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Димитър Димитров Добрев",
+    "teacherPosition": "мат."
+  },
+  {
+    "teacherId": 183,
+    "teacherName": "Димитър Добрев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Димитър Добрев Добрев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 184,
+    "teacherName": "Димитър Димитров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Димитър Златков Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 185,
+    "teacherName": "Димитър Вакарелов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "dvak@fmi.uni-sofia.bg",
+    "department": "МЛП",
+    "teacherFullname": "Димитър Иванов Вакарелов",
+    "teacherPosition": "Професор"
+  },
+  {
+    "teacherId": 186,
+    "teacherName": "Димитър Биров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Димитър Йорданов Биров",
+    "teacherPosition": "зам. декан"
+  },
+  {
+    "teacherId": 187,
+    "teacherName": "Димитър Димитров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Димитър Красимиров Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 188,
+    "teacherName": "Димитър Димитров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Димитър Михайлов Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 189,
+    "teacherName": "Димитър Трендафилов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Димитър Николаев Трендафилов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 190,
+    "teacherName": "Димитър Миланов",
+    "teacherTitle": "none",
+    "teacherEmail": "dimo@ucc.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Димитър Петков Миланов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 191,
+    "teacherName": "Димитър Дрянов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Димитър Петров Дрянов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 192,
+    "teacherName": "Димитър Димитров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Димитър Славов Димитров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 193,
+    "teacherName": "Димо Проданов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Димо Йорданов Проданов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 194,
+    "teacherName": "Димо Димов",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "dtdim@iinf.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Димо Тодоров Димов",
+    "teacherPosition": "ст.н.с.II ст."
+  },
+  {
+    "teacherId": 195,
+    "teacherName": "Дин Анх",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Дин Нгок Анх",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 196,
+    "teacherName": "Диян Йорданов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Диян Славчев Йорданов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 197,
+    "teacherName": "Добринка Спасова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Добринка Добрева Спасова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 198,
+    "teacherName": "Дойчин Толев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "dtolev@pu.acad.bg",
+    "department": "МА",
+    "teacherFullname": "Дойчин Иванов Толев",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 199,
+    "teacherName": "Донка Димитрова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Донка Димитрова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 200,
+    "teacherName": "Дончо Донев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Дончо Донев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 201,
+    "teacherName": "Дончо Дончев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "doncho@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Дончо Стефанов Дончев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 202,
+    "teacherName": "Драгослав Драгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Драгослав Драгомиров Драгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 203,
+    "teacherName": "Дренски",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Дренски",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 204,
+    "teacherName": "Е.Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Е.Георгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 205,
+    "teacherName": "Евгени Недялков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Евгени Петров Недялков",
+    "teacherPosition": "математик"
+  },
+  {
+    "teacherId": 206,
+    "teacherName": "Евгени Николов",
+    "teacherTitle": "ст.н.с. I д.м.н",
+    "teacherEmail": "eugene@nlcv.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Евгени Христов Николов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 207,
+    "teacherName": "Евгени Христов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Евгени Христов Христов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 208,
+    "teacherName": "Евгений Кръстев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "eck@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Евгений Христов Кръстев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 209,
+    "teacherName": "Евгения Великова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Евгения Димитрова Великова Бандова",
+    "teacherPosition": "зам. декан"
+  },
+  {
+    "teacherId": 210,
+    "teacherName": "Евгения Попова",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "epopova@bio.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Евгения Димитрова Попова",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 211,
+    "teacherName": "Евгения Сендова",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Евгения Йовкова Сендова",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 212,
+    "teacherName": "Евгения Ковачева",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "epk@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Евгения Петрова Ковачева",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 213,
+    "teacherName": "Евтим Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Евтим Иванов Георгиев",
+    "teacherPosition": "дем."
+  },
+  {
+    "teacherId": 214,
+    "teacherName": "Едуард Омей",
+    "teacherTitle": "проф. ",
+    "teacherEmail": "none",
+    "department": "ЛММИ~~",
+    "teacherFullname": "Едуард Омей",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 215,
+    "teacherName": "Екатерина Михайлова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Екатерина Петрова Михайлова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 216,
+    "teacherName": "Екатерина Андрейчин",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Екатерина Разумова Андрейчин",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 217,
+    "teacherName": "Елена Шойкова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Елена Дикова Шойкова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 218,
+    "teacherName": "Елза Иванова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Елза Петрова Иванова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 219,
+    "teacherName": "Елиза Стефанова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "eliza@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Елиза Петрова Стефанова",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 220,
+    "teacherName": "Елисавета Гурова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "elis@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Елисавета Василева Гурова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 221,
+    "teacherName": "Елисавета Лазарова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Елисавета Здравкова Лазарова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 222,
+    "teacherName": "Елисавета Панчева",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "pancheva@math.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Елисавета Илиева Панчева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 223,
+    "teacherName": "Елица Станева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Д",
+    "teacherFullname": "Елица Николова Станева",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 224,
+    "teacherName": "Емануела Митрева",
+    "teacherTitle": "none",
+    "teacherEmail": "enstaneva@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Емануела Димитрова Митрева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 225,
+    "teacherName": "Емануил Атанасов",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "emanouil@parallel.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Емануил Йорданов Атанасов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 226,
+    "teacherName": "Емил Алексов",
+    "teacherTitle": "none",
+    "teacherEmail": "emilaleksov@yahoo.co.uk",
+    "department": "Неопр",
+    "teacherFullname": "Емил Георгиев Алексов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 227,
+    "teacherName": "Емил Хорозов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "horozov@fmi.uni-sofia.bg",
+    "department": "ДУ",
+    "teacherFullname": "Емил Иванов Хорозов",
+    "teacherPosition": "р-л катедра"
+  },
+  {
+    "teacherId": 228,
+    "teacherName": "Емил Ивов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "emcho@jitsi.org",
+    "department": "КИ",
+    "teacherFullname": "Емил Ивов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 229,
+    "teacherName": "Емил Каменов",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Емил Петков Каменов",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 230,
+    "teacherName": "Емил Атанасов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Емил Стефанов Атанасов",
+    "teacherPosition": "демонстр."
+  },
+  {
+    "teacherId": 231,
+    "teacherName": "Емилия Живкова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Емилия Кирилова Живкова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 232,
+    "teacherName": "Емилия Стойчева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Емилия Николайчова Стойчева",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 233,
+    "teacherName": "Емилия Василева",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "emibr@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Емилия Свиленова Бранкова Василева",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 234,
+    "teacherName": "Жанет Найденова",
+    "teacherTitle": "н.с. д-р",
+    "teacherEmail": "jnn@@jnn-marketing.com",
+    "department": "Неопр",
+    "teacherFullname": "Жанет Неделчева Найденова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 235,
+    "teacherName": "Жечка Андонова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Жечка Андонова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 236,
+    "teacherName": "Живко Петров",
+    "teacherTitle": "none",
+    "teacherEmail": "zhivo_33@abv.bg",
+    "department": "МА",
+    "teacherFullname": "Живко Христов Петров",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 237,
+    "teacherName": "Жулгена Бенбасад",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Жулгена Несим Бенбасад",
+    "teacherPosition": "инспектор"
+  },
+  {
+    "teacherId": 238,
+    "teacherName": "Запрян Запрянов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Запрян Димитров Запрянов",
+    "teacherPosition": "пенсионер"
+  },
+  {
+    "teacherId": 239,
+    "teacherName": "Здравко Николов",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Здравко Генов Николов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 240,
+    "teacherName": "Здравко Марков",
+    "teacherTitle": "доц. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Здравко Иванов Марков",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 241,
+    "teacherName": "Здравко Йорданов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Здравко Красимиров Йорданов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 242,
+    "teacherName": "Здравко Кръстев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Здравко Найденов Кръстев",
+    "teacherPosition": "демонстр."
+  },
+  {
+    "teacherId": 243,
+    "teacherName": "Здравко Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Здравко Радославов Георгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 244,
+    "teacherName": "Зорница Костадинова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Зорница Атанасова Костадинова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 245,
+    "teacherName": "Зорница Якова",
+    "teacherTitle": "none",
+    "teacherEmail": "yakova@ucc.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Зорница Здравкова Якова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 246,
+    "teacherName": "Ива Герасимова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Ива Валериева Герасимова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 247,
+    "teacherName": "Ива Кръстева",
+    "teacherTitle": "none",
+    "teacherEmail": "ivak@rila.bg",
+    "department": "СТ",
+    "teacherFullname": "Ива Любенова Кръстева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 248,
+    "teacherName": "Ивайло Величков",
+    "teacherTitle": "none",
+    "teacherEmail": "ivel@latona-bg.com",
+    "department": "Неопр",
+    "teacherFullname": "Ивайло Владимиров Величков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 249,
+    "teacherName": "Ивайло Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Ивайло Георгиев Георгиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 250,
+    "teacherName": "Ивайло Младенов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Ивайло Младенов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 251,
+    "teacherName": "Ивайло Иванов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Ивайло Огнянов Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 252,
+    "teacherName": "Иван Держански",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Иван Александров Держански",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 253,
+    "teacherName": "Иван Маринов",
+    "teacherTitle": "none",
+    "teacherEmail": "rovin_eyes@abv.bg",
+    "department": "Алг",
+    "teacherFullname": "Иван Бойчев Маринов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 254,
+    "teacherName": "Иван Гарванов",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "mmatanov@ucc.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Иван Ганчев Гарванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 255,
+    "teacherName": "Иван Донев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "gantchev@fmi.uni-sofia.bg",
+    "department": "ОМИ",
+    "teacherFullname": "Иван Ганчев Донев",
+    "teacherPosition": "Гост-Професор"
+  },
+  {
+    "teacherId": 256,
+    "teacherName": "Иван Христов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Иван Георгиев Христов",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 257,
+    "teacherName": "Иван Боздуганов",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Иван Димов Боздуганов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 258,
+    "teacherName": "Иван Иванов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Иван Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 259,
+    "teacherName": "Иван Делев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "delev@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Иван Кирилов Делев",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 260,
+    "teacherName": "Иван Койчев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "koychev@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Иван Колев Койчев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 261,
+    "teacherName": "Иван Тонов",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "tonov@fmi.uni-sofia.bg",
+    "department": "ОМИ",
+    "teacherFullname": "Иван Костадинов Тонов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 262,
+    "teacherName": "Иван Митов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Иван Костов Митов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 263,
+    "teacherName": "Иван Донев",
+    "teacherTitle": "none",
+    "teacherEmail": "ivan.donev@hp.com",
+    "department": "ИТ",
+    "teacherFullname": "Иван Красимиров Донев",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 264,
+    "teacherName": "Иван Симеонов",
+    "teacherTitle": "ст.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Иван Людмилов Симеонов",
+    "teacherPosition": "Старши асистент"
+  },
+  {
+    "teacherId": 265,
+    "teacherName": "Иван Миховски",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "mihovsky@fmi.uni-sofia.bg",
+    "department": "АМ",
+    "teacherFullname": "Иван Минков Миховски",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 266,
+    "teacherName": "Иван Минчев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Иван Минчев Минчев",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 267,
+    "teacherName": "Иван Пенев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Иван Николаев Пенев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 268,
+    "teacherName": "Иван Сосков",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "soskov@fmi.uni-sofia.bg",
+    "department": "МЛП",
+    "teacherFullname": "Иван Николаев Сосков",
+    "teacherPosition": "Декан"
+  },
+  {
+    "teacherId": 269,
+    "teacherName": "Иван Попчев",
+    "teacherTitle": "акад. д.м.н",
+    "teacherEmail": "ipopchev@iit.bas.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Иван Петков Попчев",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 270,
+    "teacherName": "Иван Савов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "isavov@moody.bg",
+    "department": "Неопр",
+    "teacherFullname": "Иван Савов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 271,
+    "teacherName": "Иван Хаджийски",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Иван Стайков Хаджийски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 272,
+    "teacherName": "Иван Азманов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Иван Станев Азманов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 273,
+    "teacherName": "Иван Попов",
+    "teacherTitle": "none",
+    "teacherEmail": "Ivan_Popov@bg.ibm.com",
+    "department": "КИ",
+    "teacherFullname": "Иван Стефанов Попов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 274,
+    "teacherName": "Иванка Каратопраклиева",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Иванка Иванова Каратопраклиева",
+    "teacherPosition": "Професор"
+  },
+  {
+    "teacherId": 275,
+    "teacherName": "Иглика Василева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ЛММИ~~",
+    "teacherFullname": "Иглика Борисова Василева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 276,
+    "teacherName": "Илиана Николова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "iliana@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Илиана Христова Николова",
+    "teacherPosition": "р-л катедра"
+  },
+  {
+    "teacherId": 277,
+    "teacherName": "Илина Манова",
+    "teacherTitle": "none",
+    "teacherEmail": "ilinam@rila.com",
+    "department": "СТ",
+    "teacherFullname": "Илина Георгиева Манова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 278,
+    "teacherName": "Ина Найденова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Ина Асенова Найденова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 279,
+    "teacherName": "Ирена Павлова",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Ирена Атанасова Павлова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 280,
+    "teacherName": "Ирина Наскинова",
+    "teacherTitle": "none",
+    "teacherEmail": "irinanaskinova@yahoo.com",
+    "department": "Неопр",
+    "teacherFullname": "Ирина Добрева Наскинова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 281,
+    "teacherName": "Ирина Вутова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Ирина Здравкова Вутова",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 282,
+    "teacherName": "Ирина Николова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Ирина Красимирова Николова",
+    "teacherPosition": "асп."
+  },
+  {
+    "teacherId": 283,
+    "teacherName": "Искрен Чернев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Искрен Ивов Чернев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 284,
+    "teacherName": "Йордан Зашев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Йордан Ангелов Зашев",
+    "teacherPosition": "гл.асистент"
+  },
+  {
+    "teacherId": 285,
+    "teacherName": "Йордан Йорданов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "iordanov@fmi.uni-sofia.bg",
+    "department": "ДУ",
+    "teacherFullname": "Йордан Велинов Йорданов",
+    "teacherPosition": "Ръководител на лаборатория"
+  },
+  {
+    "teacherId": 286,
+    "teacherName": "Йордан Стефанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Йордан Венциславов Стефанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 287,
+    "teacherName": "Йордан Митев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "jormit@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Йордан Георгиев Митев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 288,
+    "teacherName": "Йордан Денев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Йордан Дечев Денев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 289,
+    "teacherName": "Йордан Зайков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Йордан Кирилов Зайков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 290,
+    "teacherName": "Йордан Детев",
+    "teacherTitle": "none",
+    "teacherEmail": "jordan.detev@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Йордан Петров Детев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 291,
+    "teacherName": "Йорданка Иванова",
+    "teacherTitle": "ст.н.с. I д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Йорданка Александрова Иванова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 292,
+    "teacherName": "Йохан Давидов",
+    "teacherTitle": "ст.н.с. I д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Йохан Тодоров Давидов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 293,
+    "teacherName": "Калин Николов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Калин Георгиев Николов",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 294,
+    "teacherName": "Калинка Динева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Калинка Динева Динева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 295,
+    "teacherName": "Калинка Калоянова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "kkaloyanova@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Калинка Михайлова Калоянова",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 296,
+    "teacherName": "Калоян Калоянов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Калоян Томов Калоянов",
+    "teacherPosition": "гл.асистент"
+  },
+  {
+    "teacherId": 297,
+    "teacherName": "Камен Спасов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Камен Боянов Спасов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 298,
+    "teacherName": "Камен Иванов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Камен Ганчев Иванов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 299,
+    "teacherName": "Каменова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Каменова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 300,
+    "teacherName": "Карина Ангелиева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Карина Любомирова Ангелиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 301,
+    "teacherName": "Кирил Банков",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "kbankov@fmi.uni-sofia.bg",
+    "department": "ОМИ",
+    "teacherFullname": "Кирил Георгиев Банков",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 302,
+    "teacherName": "Кирил Боянов",
+    "teacherTitle": "акад. д.м.н",
+    "teacherEmail": "boyanov@acad.bg",
+    "department": "ИС",
+    "teacherFullname": "Кирил Любенов Боянов",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 303,
+    "teacherName": "Кирил Кирчев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Кирил Петров Кирчев",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 304,
+    "teacherName": "Кирил Симов",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Кирил Симов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 305,
+    "teacherName": "Константин Делчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Константин Василев Делчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 306,
+    "teacherName": "Константин Табаков",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Константин Драганов Табаков",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 307,
+    "teacherName": "Константин Йовков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Константин Йовчев Йовков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 308,
+    "teacherName": "Корнелия Йорданова",
+    "teacherTitle": "none",
+    "teacherEmail": "cornelia@fmi.uni-sofia.bg",
+    "department": "Неопр",
+    "teacherFullname": "Корнелия Тодорова Йорданова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 309,
+    "teacherName": "Костадинка Тотева",
+    "teacherTitle": "none",
+    "teacherEmail": "kossy.toteva@gmail.com",
+    "department": "СТ",
+    "teacherFullname": "Костадинка Димитрова Тотева",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 310,
+    "teacherName": "Косто Митов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "kmitov@yahoo.com",
+    "department": "ВОИС",
+    "teacherFullname": "Косто Вълов Митов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 311,
+    "teacherName": "Красен Стефанов",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "krassen@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Красен Стефанов Стефанов",
+    "teacherPosition": "ръководител УИЦ"
+  },
+  {
+    "teacherId": 312,
+    "teacherName": "Красимир Добрев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Красимир Митков Добрев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 313,
+    "teacherName": "Красимир Манев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "manev@fmi.uni-sofia.bg",
+    "department": "ИС",
+    "teacherFullname": "Красимир Неделчев Манев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 314,
+    "teacherName": "Красимир Атанасов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "krat@bas.bg",
+    "department": "КИ",
+    "teacherFullname": "Красимир Тодоров Атанасов",
+    "teacherPosition": "ст.н.с.І ст"
+  },
+  {
+    "teacherId": 315,
+    "teacherName": "Красимира Александрова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "krassivl@fmi.uni-sofia.bg",
+    "department": "КАТ",
+    "teacherFullname": "Красимира Влъчкова Александрова",
+    "teacherPosition": "гл.ас."
+  },
+  {
+    "teacherId": 316,
+    "teacherName": "Красимира Проданова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Красимира Стоянова Проданова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 317,
+    "teacherName": "Крум Иванов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Крум Атанасов Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 318,
+    "teacherName": "Кузман Ганчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Кузман Ганчев Ганчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 319,
+    "teacherName": "Лазар Кирчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Лазар Ангелов Кирчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 320,
+    "teacherName": "Ланджев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Ланджев",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 321,
+    "teacherName": "Лариса Владинова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Лариса Владинова",
+    "teacherPosition": "аспирант"
+  },
+  {
+    "teacherId": 322,
+    "teacherName": "Леда Димитрова Минкова",
+    "teacherTitle": "доц. д-р на науките",
+    "teacherEmail": "leda@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Леда Димитрова Минкова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 323,
+    "teacherName": "Лидия Гълъбова",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Лидия Петрова Гълъбова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 324,
+    "teacherName": "Лиляна Бонева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Лиляна Иванова Бонева",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 325,
+    "teacherName": "Липсва",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Липсва",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 326,
+    "teacherName": "Лозко Милев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Лозко Божинов Милев",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 327,
+    "teacherName": "Лъчезар Рибаров",
+    "teacherTitle": "none",
+    "teacherEmail": "lachezarr@rila.com",
+    "department": "Неопр",
+    "teacherFullname": "Лъчезар Васков Рибаров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 328,
+    "teacherName": "Любка Дуковска",
+    "teacherTitle": "н.с. д-р",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Любка Атанасова Дуковска",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 329,
+    "teacherName": "Любомир Андреев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Любомир Владимиров Андреев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 330,
+    "teacherName": "Любомир Лилов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "lilov@fmi.uni-sofia.bg",
+    "department": "АМ",
+    "teacherFullname": "Любомир Кръстев Лилов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 331,
+    "teacherName": "Любомир Дечевски",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "ltd@hin.no",
+    "department": "ДУ",
+    "teacherFullname": "Любомир Тодоров Дечевски",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 332,
+    "teacherName": "Людмил Аначков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Людмил Василев Аначков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 333,
+    "teacherName": "Людмила Николова",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Людмила Йорданова Николова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 334,
+    "teacherName": "Магдалина Тодорова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Магдалина Василева Тодорова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 335,
+    "teacherName": "Маргарита Спирова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "spirova@fmi.uni-sofia.bg",
+    "department": "Геом",
+    "teacherFullname": "Маргарита Георгиева Спирова",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 336,
+    "teacherName": "Маргарита Спиридонова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "02 858 66 63",
+    "department": "ЧМА",
+    "teacherFullname": "Маргарита Николова Спиридонова",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 337,
+    "teacherName": "Маргарита Камбурова",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "margikam@yahoo.com",
+    "department": "Неопр",
+    "teacherFullname": "Маргарита Стоянова Камбурова",
+    "teacherPosition": "ст.н.с. II ст."
+  },
+  {
+    "teacherId": 338,
+    "teacherName": "Мариана Райчева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Мариана Иванова Райчева",
+    "teacherPosition": "инф."
+  },
+  {
+    "teacherId": 339,
+    "teacherName": "Марин Нешев",
+    "teacherTitle": "none",
+    "teacherEmail": "marnesh@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Марин Николаев Нешев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 340,
+    "teacherName": "Марио Милушев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Марио Милушев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 341,
+    "teacherName": "Мария Каратопраклиева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Мария Георгиева Каратопраклиева",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 342,
+    "teacherName": "Мария Ганева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Мария Господинова Ганева",
+    "teacherPosition": "математик"
+  },
+  {
+    "teacherId": 343,
+    "teacherName": "Мария Соскова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Мария Иванова Соскова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 344,
+    "teacherName": "Мария Томова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Мария Минчева Кузманова",
+    "teacherPosition": "демонстр."
+  },
+  {
+    "teacherId": 345,
+    "teacherName": "Мария Михайлова Нишева Павлова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "marian@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Мария Михайлова Нишева Павлова",
+    "teacherPosition": "зам. декан"
+  },
+  {
+    "teacherId": 346,
+    "teacherName": "Мария Семерджиева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Мария Николова Семерджиева",
+    "teacherPosition": "докторант"
+  },
+  {
+    "teacherId": 347,
+    "teacherName": "Мария Железова",
+    "teacherTitle": "none",
+    "teacherEmail": "m.zhelezova@gmail.com",
+    "department": "ВОИС",
+    "teacherFullname": "Мария Радкова Железова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 348,
+    "teacherName": "Марияна Василева-Иванова",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "mvassileva@iinf.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Марияна Василева Василева-Иванова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 349,
+    "teacherName": "Марк Харис",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Марк Харис",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 350,
+    "teacherName": "Марта Дронева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Марта Александрова Дронева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 351,
+    "teacherName": "Мартин Русков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Мартин Петков Русков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 352,
+    "teacherName": "Марусия Божкова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "bojkova@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Марусия Никифорова Божкова",
+    "teacherPosition": "Ръководител катедра"
+  },
+  {
+    "teacherId": 353,
+    "teacherName": "Матей Нейков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Матей Нейков Нейков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 354,
+    "teacherName": "Мая Стоянова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Мая Митева Стоянова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 355,
+    "teacherName": "Мая Желязкова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "maya.geliazkova@gmail.com",
+    "department": "ВОИС",
+    "teacherFullname": "Мая Проданова Желязкова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 356,
+    "teacherName": "Методи Николов",
+    "teacherTitle": "none",
+    "teacherEmail": "metodi.nikolov@gmail.com",
+    "department": "ВОИС",
+    "teacherFullname": "Методи Стоянов Николов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 357,
+    "teacherName": "Милан Русев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Милан Евлогиев Русев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 358,
+    "teacherName": "Милен Петров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "milenp@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Милен Йорданов Петров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 359,
+    "teacherName": "Милен Чечев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "mmilenn@yahoo.com",
+    "department": "ИТ",
+    "teacherFullname": "Милен Митков Чечев",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 360,
+    "teacherName": "Милен Иванов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "milen@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Милен Николаев Иванов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 361,
+    "teacherName": "Милена Комитска",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Милена Иванова Комитска",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 362,
+    "teacherName": "Милена Стойчева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Милена Иванова Стойчева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 363,
+    "teacherName": "Милко Такев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "takev@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Милко Дамянов Такев",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 364,
+    "teacherName": "Милко Петков",
+    "teacherTitle": "проф. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Милко Петков",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 365,
+    "teacherName": "Милослав Средков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Милослав Антониев Средков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 366,
+    "teacherName": "Минко Блянтов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Минко Иванов Блянтов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 367,
+    "teacherName": "Минко Марков",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Минко Маринов Марков",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 368,
+    "teacherName": "Мира Бивас",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Мира Изак Бивас",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 369,
+    "teacherName": "Мирослав Недялков",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Мирослав Валентинов Недялков",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 370,
+    "teacherName": "Мирослав Миронов",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Мирослав Иванов Миронов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 371,
+    "teacherName": "Мирослав Илиев",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "info@rila.com",
+    "department": "Неопр",
+    "teacherFullname": "Мирослав Илиев",
+    "teacherPosition": "ст.н.с.д-р"
+  },
+  {
+    "teacherId": 372,
+    "teacherName": "Мирослав Стоенчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Мирослав Руселинов Стоенчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 373,
+    "teacherName": "Мирослав Долапчиев",
+    "teacherTitle": "none",
+    "teacherEmail": "m.dolaptchiev@ibs.bg",
+    "department": "Неопр",
+    "teacherFullname": "Мирослав Христов Долапчиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 374,
+    "teacherName": "Мирослава Динева-Сярова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Мирослава Драгиева Динева-Сярова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 375,
+    "teacherName": "Мирослава Илиева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Мирослава Спасова Илиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 376,
+    "teacherName": "Мита Георгиева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Мита Дончева Георгиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 377,
+    "teacherName": "Митьо Матанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Митьо Иванов Матанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 378,
+    "teacherName": "Михаил Матеев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "michael@mateev.net",
+    "department": "Неопр",
+    "teacherFullname": "Михаил Александров Матеев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 379,
+    "teacherName": "Михаил Хамамджиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Михаил Атанасов Хамамджиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 380,
+    "teacherName": "Михаил Братоев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Михаил Иванов Братоев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 381,
+    "teacherName": "Михаил Кръстанов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "krast@bas.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Михаил Иванов Кръстанов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 382,
+    "teacherName": "Михаил Минков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Михаил Иванов Минков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 383,
+    "teacherName": "Младен Димитров",
+    "teacherTitle": "проф. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Младен Димитров",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 384,
+    "teacherName": "Момчил Милев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Момчил Янев Милев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 385,
+    "teacherName": "Моника Райкова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Моника Анелиева Райкова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 386,
+    "teacherName": "Моника Атанасова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Моника Николаева Атанасова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 387,
+    "teacherName": "Моника Филипова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Моника Христова Филипова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 388,
+    "teacherName": "Надежда Рибарска",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "ribarska@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Надежда Костадинова Рибарска",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 389,
+    "teacherName": "Надя Златева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Надя Пейчева Златева",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 390,
+    "teacherName": "Наталия Илиева",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Наталия Генадиева Илиева ",
+    "teacherPosition": "ас."
+  },
+  {
+    "teacherId": 391,
+    "teacherName": "Невена Матеева",
+    "teacherTitle": "none",
+    "teacherEmail": "nevena3@hotmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Невена Димитрова Матеева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 392,
+    "teacherName": "Невена Тачева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Невена Красимирова Тачева",
+    "teacherPosition": "демонстр."
+  },
+  {
+    "teacherId": 393,
+    "teacherName": "Невяна Георгиева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Невяна Димитрова Георгиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 394,
+    "teacherName": "Недю Попиванов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "nedyu@yahoo.com",
+    "department": "ДУ",
+    "teacherFullname": "Недю Иванов Попиванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 395,
+    "teacherName": "Недялко Ненов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "nenov@fmi.uni-sofia.bg",
+    "department": "Алг",
+    "teacherFullname": "Недялко Димов Ненов",
+    "teacherPosition": "Ръководител катедра"
+  },
+  {
+    "teacherId": 396,
+    "teacherName": "Нейко Нейков",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "neyko.neykov@meteo.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Нейко Матеев Нейков",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 397,
+    "teacherName": "Нели Манева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Нели Милчева Манева",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 398,
+    "teacherName": "Нели Златарева",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "Zlatareva@mail.ccsu.edu",
+    "department": "Неопр",
+    "teacherFullname": "Нели Пантелеева Златарева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 399,
+    "teacherName": "Нели Димитрова",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "hischool@cc.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Нели Стоянова Димитрова",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 400,
+    "teacherName": "Нено Ганчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Нено Пламенов Ганчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 401,
+    "teacherName": "НеРегистриран",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "НеРегистриран",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 402,
+    "teacherName": "Никола Чакъров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Никола Бориславов Чакъров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 403,
+    "teacherName": "Никола Владов",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Никола Владимиров Владов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 404,
+    "teacherName": "Никола Найденов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Никола Георгиев Найденов",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 405,
+    "teacherName": "Никола Янев",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "choby@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Никола Иванов Янев",
+    "teacherPosition": "Професор"
+  },
+  {
+    "teacherId": 406,
+    "teacherName": "Николай Чорбанов",
+    "teacherTitle": "none",
+    "teacherEmail": "nikolay-andreev.chorbanov@hp.com",
+    "department": "ИТ",
+    "teacherFullname": "Николай Андреев Чорбанов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 407,
+    "teacherName": "Николай Кюркчиев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Николай Веселинов Кюркчиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 408,
+    "teacherName": "Николай Атанасов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Николай Владимиров Атанасов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 409,
+    "teacherName": "Николай Хаджииванов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Николай Георгиев Хаджииванов",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 410,
+    "teacherName": "Николай Грозев",
+    "teacherTitle": "none",
+    "teacherEmail": "ngrozev2005@mail.bg",
+    "department": "Неопр",
+    "teacherFullname": "Николай Грозданов Грозев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 411,
+    "teacherName": "Николай Душков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Николай Душков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 412,
+    "teacherName": "Николай Огнянов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Николай Иванов Огнянов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 413,
+    "teacherName": "Николай Недялков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Николай Йорданов Недялков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 414,
+    "teacherName": "Николай Киров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Николай Киров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 415,
+    "teacherName": "Николай Червенов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Николай Костов Червенов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 416,
+    "teacherName": "Николай Манев",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Николай Лазаров Манев",
+    "teacherPosition": "Гост - ст.н.с. II ст."
+  },
+  {
+    "teacherId": 417,
+    "teacherName": "Николай Младенов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Николай Милчев Младенов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 418,
+    "teacherName": "Николай Янев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Николай Михайлов Янев",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 419,
+    "teacherName": "Николай Буюклиев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Николай Петров Буюклиев",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 420,
+    "teacherName": "Николай Колев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Николай Рангелов Колев",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 421,
+    "teacherName": "Николай Бачийски",
+    "teacherTitle": "none",
+    "teacherEmail": "nb@nikolay.bg",
+    "department": "КИ",
+    "teacherFullname": "Николай Чавдаров Бачийски",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 422,
+    "teacherName": "Николина Николова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "nnikolova@fmi.uni-sofia.bg",
+    "department": "ОМИ",
+    "teacherFullname": "Николина Илиева Николова",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 423,
+    "teacherName": "Нина Рускова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Нина Атанасова Рускова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 424,
+    "teacherName": "Нина Синягина",
+    "teacherTitle": "ст.н.с. I д-р",
+    "teacherEmail": "ntst@acad.bg",
+    "department": "Неопр",
+    "teacherFullname": "Нина Василевна Синягина",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 425,
+    "teacherName": "Нина Даскалова",
+    "teacherTitle": "ас. д-р",
+    "teacherEmail": "nina_rdm@yahoo.com",
+    "department": "ВОИС",
+    "teacherFullname": "Нина Руменова Даскалова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 426,
+    "teacherName": "Нино Пелов",
+    "teacherTitle": "none",
+    "teacherEmail": "nino.pelov@gmail.com",
+    "department": "СТ",
+    "teacherFullname": "Нино Тодоров Пелов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 427,
+    "teacherName": "Огнян Манолов",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Огнян Борисов Манолов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 428,
+    "teacherName": "Огнян Христов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "christov@fmi.uni-sofia.bg",
+    "department": "ДУ",
+    "teacherFullname": "Огнян Борисов Христов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 429,
+    "teacherName": "Оксана Младенова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Д",
+    "teacherFullname": "Оксана Михайловна Младенова",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 430,
+    "teacherName": "Олга Георгиева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Олга Илиева Георгиева",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 431,
+    "teacherName": "Олег Константинов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Олег Димитров Константинов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 432,
+    "teacherName": "Олег Георгиев",
+    "teacherTitle": "none",
+    "teacherEmail": "georgiev.o@gmail.com",
+    "department": "СТ",
+    "teacherFullname": "Олег Николаев Георгиев",
+    "teacherPosition": "хоноруван преподавател"
+  },
+  {
+    "teacherId": 433,
+    "teacherName": "П.Пенчев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "П.Пенчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 434,
+    "teacherName": "Павел Павлов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "pavlovp@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Павел Илиев Павлов",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 435,
+    "teacherName": "Павел Бойчев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "boytchev@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Павел Христов Бойчев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 436,
+    "teacherName": "Павлин Дулев",
+    "teacherTitle": "none",
+    "teacherEmail": "kaxan@ucc.uni-sofia.bg",
+    "department": "Неопр",
+    "teacherFullname": "Павлин Генчев Дулев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 437,
+    "teacherName": "Панайот Добриков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Панайот Марков Добриков",
+    "teacherPosition": "дем."
+  },
+  {
+    "teacherId": 438,
+    "teacherName": "Панайот Василевски",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Панайот Спиров Василевски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 439,
+    "teacherName": "Пандо Георгиев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "pandogg@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Пандо Григоров Георгиев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 440,
+    "teacherName": "Пенко Иванов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "penko@prosyst.bg",
+    "department": "Неопр",
+    "teacherFullname": "Пенко Иванов Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 441,
+    "teacherName": "Пенчо Михнев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Пенчо Петров Михнев",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 442,
+    "teacherName": "Пеньо Атанасов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Пеньо Пламенов Атанасов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 443,
+    "teacherName": "Петко Физиев",
+    "teacherTitle": "none",
+    "teacherEmail": "peplafi@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Петко Пламенов Физиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 444,
+    "teacherName": "Петко Русков",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "petkor@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Петко Русков Русков",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 445,
+    "teacherName": "Петър Ганчев",
+    "teacherTitle": "none",
+    "teacherEmail": "petergancheff@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Петър Величков Ганчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 446,
+    "teacherName": "Петър Бинев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Петър Георгиев Бинев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 447,
+    "teacherName": "Петър Бояджиев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Петър Георгиев Бояджиев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 448,
+    "teacherName": "Петър Манолов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Петър Здравков Манолов",
+    "teacherPosition": "дем."
+  },
+  {
+    "teacherId": 449,
+    "teacherName": "Петър Станчев",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Петър Любомиров Станчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 450,
+    "teacherName": "Петър Митанкин",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Петър Николаев Митанкин",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 451,
+    "teacherName": "Петър Петров",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Петър Пейнов Петров",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 452,
+    "teacherName": "Петър Попиванов",
+    "teacherTitle": "акад. д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Петър Радоев Попиванов",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 453,
+    "teacherName": "Петър Армянов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Петър Русланов Армянов",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 454,
+    "teacherName": "Петър Недевски",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Петър Спиридонов Недевски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 455,
+    "teacherName": "Петър Лефтеров",
+    "teacherTitle": "none",
+    "teacherEmail": "peter.lefterov@gmail.com",
+    "department": "ИТ",
+    "teacherFullname": "Петър Стефанов Лефтеров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 456,
+    "teacherName": "Петьо Петков",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Петьо Петров Петков",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 457,
+    "teacherName": "Петьо Стоянов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Петьо Стоименов Стоянов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 458,
+    "teacherName": "Петя Павлова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "petya_pavlova@hotmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Петя Емилова Павлова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 459,
+    "teacherName": "Пламен Джаков",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Пламен Борисов Джаков",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 460,
+    "teacherName": "Пламен Миленков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Д",
+    "teacherFullname": "Пламен Георгиев Миленков",
+    "teacherPosition": "член на ФС"
+  },
+  {
+    "teacherId": 461,
+    "teacherName": "Пламен Траянов",
+    "teacherTitle": "none",
+    "teacherEmail": "plamentrayanov@gmail.com",
+    "department": "ВОИС",
+    "teacherFullname": "Пламен Ивайлов Траянов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 462,
+    "teacherName": "Пламен Ялъмов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "yalamov@ami.ru.acad.bg",
+    "department": "Неопр",
+    "teacherFullname": "Пламен Йорданов Ялъмов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 463,
+    "teacherName": "Пламен Петков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Пламен Маринов Петков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 464,
+    "teacherName": "Пламен Геров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Пламен Митков Геров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 465,
+    "teacherName": "Пламен Сидеров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Пламен Николов Сидеров",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 466,
+    "teacherName": "Пламен Матеев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "pmat@fmi.uni-sofia.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Пламен Стоянов Матеев",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 467,
+    "teacherName": "Поповски",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Поповски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 468,
+    "teacherName": "Преслав Наков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Преслав Иванов Наков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 469,
+    "teacherName": "Първан Първанов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Първан Евтимов Първанов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 470,
+    "teacherName": "Първан Гьошев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "parvan_83@abv.bg",
+    "department": "КИ",
+    "teacherFullname": "Първан Кирилов Гьошев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 471,
+    "teacherName": "Радослав Йошинов",
+    "teacherTitle": "н.с. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Радослав Даков Йошинов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 472,
+    "teacherName": "Радослава Горанова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Радослава Данаилова Горанова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 473,
+    "teacherName": "Райчо Лазаров",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Райчо Димитров Лазаров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 474,
+    "teacherName": "Ралица Георгиева",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "ralitzavg@hotmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Ралица Владиславова Георгиева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 475,
+    "teacherName": "Рачо Денчев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "rachodenchev@yahoo.com",
+    "department": "КАТ",
+    "teacherFullname": "Рачо Тодоров Денчев",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 476,
+    "teacherName": "Ренди Картер",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Ренди Картер ",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 477,
+    "teacherName": "Ридван Исуфов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Ридван Мустафов Исуфов",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 478,
+    "teacherName": "Роберт Иванов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Роберт Мирославов Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 479,
+    "teacherName": "Роман Захариев",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "roman@clmi.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Роман Захариев Захариев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 480,
+    "teacherName": "Рони Леви",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "levy@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Рони Нисим Леви",
+    "teacherPosition": "зам. декан"
+  },
+  {
+    "teacherId": 481,
+    "teacherName": "Росен Розенов",
+    "teacherTitle": "none",
+    "teacherEmail": "rozenov.r@bnbank.org",
+    "department": "Неопр",
+    "teacherFullname": "Росен Александров Розенов",
+    "teacherPosition": "докторант"
+  },
+  {
+    "teacherId": 482,
+    "teacherName": "Росен Николов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Росен Асенов Николов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 483,
+    "teacherName": "Росен Иванов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Росен Митков Иванов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 484,
+    "teacherName": "Росица Димова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Росица Бориславова Димова",
+    "teacherPosition": "докторант"
+  },
+  {
+    "teacherId": 485,
+    "teacherName": "Румен Николов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "roumen@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Румен Василев Николов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 486,
+    "teacherName": "Румен Малеев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "maleev@fmi.uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Румен Петров Малеев",
+    "teacherPosition": "Професор"
+  },
+  {
+    "teacherId": 487,
+    "teacherName": "Руменка Чапкънова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Руменка Чапкънова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 488,
+    "teacherName": "Румяна Лесева",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Румяна Петрова Лесева",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 489,
+    "teacherName": "Румяна Антонова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Румяна Христова Антонова",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 490,
+    "teacherName": "Русанка Луканова",
+    "teacherTitle": "ст.ас. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Русанка Първанова Луканова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 491,
+    "teacherName": "Руси Йорданов",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Руси Георгиев Йорданов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 492,
+    "teacherName": "Руска Бабалова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Руска Бабалова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 493,
+    "teacherName": "Сабина Бочева",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Сабина Стефанова Бочева",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 494,
+    "teacherName": "Савка Костадинова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Савка Рачева Костадинова",
+    "teacherPosition": "гл. ас."
+  },
+  {
+    "teacherId": 495,
+    "teacherName": "Светла Бойчева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "svetla@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Светла Николова Бойчева",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 496,
+    "teacherName": "Светлана Горанова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Д",
+    "teacherFullname": "Светлана Василева Стоянова-Горанова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 497,
+    "teacherName": "Светлана Тумболова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Светлана Недкова Тумболова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 498,
+    "teacherName": "Светлана Маринова",
+    "teacherTitle": "н.с. ",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Светлана Петрова Маринова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 499,
+    "teacherName": "Светлин Георгиев",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Светлин Георгиев Георгиев",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 500,
+    "teacherName": "Светлин Наков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Светлин Иванов Наков",
+    "teacherPosition": "хоноруван преподавател"
+  },
+  {
+    "teacherId": 501,
+    "teacherName": "Светозар Илков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Светозар Василев Илков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 502,
+    "teacherName": "Светозар Маргенов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "margenov@parallel.bas.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Светозар Димитров Маргенов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 503,
+    "teacherName": "Светослав Марков",
+    "teacherTitle": "ст.н.с. I д.м.н",
+    "teacherEmail": "smarkov@bio.bas.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Светослав Маринов Марков",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 504,
+    "teacherName": "Светослав Нейков",
+    "teacherTitle": "none",
+    "teacherEmail": "sneykov@fmi.uni-sofia.bg",
+    "department": "Неопр",
+    "teacherFullname": "Светослав Руменов Нейков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 505,
+    "teacherName": "Светослав Стоянов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Светослав Тодоров Стоянов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 506,
+    "teacherName": "Сергей Върбанов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Сергей Илиев Върбанов",
+    "teacherPosition": "н.с."
+  },
+  {
+    "teacherId": 507,
+    "teacherName": "Силвия Илиева",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "sylvia@acad.bg",
+    "department": "СТ",
+    "teacherFullname": "Силвия Христова Илиева",
+    "teacherPosition": "Ръководител катедра"
+  },
+  {
+    "teacherId": 508,
+    "teacherName": "Симеон Замковой",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "zamkovoi@fmi.uni-sofia.bg",
+    "department": "Геом",
+    "teacherFullname": "Симеон Петров Замковой",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 509,
+    "teacherName": "Слави Лазаров",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Слави Лазаров Лазаров",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 510,
+    "teacherName": "Славчо Славчев",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Славчо Георгиев Славчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 511,
+    "teacherName": "Снежана Костова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Снежана Дикова Костова",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 512,
+    "teacherName": "Снежана Костова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Снежана Нейчева Костова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 513,
+    "teacherName": "Соня Денева",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Соня Стоянова Денева",
+    "teacherPosition": "пенсионер"
+  },
+  {
+    "teacherId": 514,
+    "teacherName": "София Ивановска",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "София Ламброва Ивановска",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 515,
+    "teacherName": "Спас Ташев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ЧМА",
+    "teacherFullname": "Спас Петров Ташев",
+    "teacherPosition": "зам. декан"
+  },
+  {
+    "teacherId": 516,
+    "teacherName": "Ставрос Ставру",
+    "teacherTitle": "none",
+    "teacherEmail": "stavros.andreu@gmail.com",
+    "department": "СТ",
+    "teacherFullname": "Ставрос Андреу Ставру",
+    "teacherPosition": "хоноруван"
+  },
+  {
+    "teacherId": 517,
+    "teacherName": "Станимир Троянски",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "МА",
+    "teacherFullname": "Станимир Любенов Троянски",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 518,
+    "teacherName": "Станимира Железова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Станимира Живкова Железова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 519,
+    "teacherName": "Станислава Петкова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "КАТ",
+    "teacherFullname": "Станислава Василева Петкова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 520,
+    "teacherName": "Стела Русева",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Стела Иванова Русева",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 521,
+    "teacherName": "Стела Николова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Стела Колева Николова",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 522,
+    "teacherName": "Стефан Герджиков",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "st_gerdjikov@abv.com",
+    "department": "МЛП",
+    "teacherFullname": "Стефан Владимиров Герджиков",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 523,
+    "teacherName": "Стефан Вътев",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "stefan.vatev@gmail.com",
+    "department": "МЛП",
+    "teacherFullname": "Стефан Володев Вътев",
+    "teacherPosition": "Асистент"
+  },
+  {
+    "teacherId": 524,
+    "teacherName": "Стефан Цветков",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Стефан Георгиев Цветков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 525,
+    "teacherName": "Стефан Стефанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "СТ",
+    "teacherFullname": "Стефан Илиев Стефанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 526,
+    "teacherName": "Стефан Карагьозов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Стефан Карагьозов",
+    "teacherPosition": "ст.н.с.д-р"
+  },
+  {
+    "teacherId": 527,
+    "teacherName": "Стефан Чапкънски",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Стефан Максимов Чапкънски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 528,
+    "teacherName": "Стефан Бочев",
+    "teacherTitle": "none",
+    "teacherEmail": "stefan@ada.bg",
+    "department": "Неопр",
+    "teacherFullname": "Стефан Петров Бочев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 529,
+    "teacherName": "Стефан Иванов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Стефан Петров Иванов",
+    "teacherPosition": "Ръководител катедра"
+  },
+  {
+    "teacherId": 530,
+    "teacherName": "Стефан Радев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "STRADEV@IMBM.BAS.BG",
+    "department": "ДУ",
+    "teacherFullname": "Стефан Петров Радев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 531,
+    "teacherName": "Стефан Бончев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Стефан Първанов Бончев",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 532,
+    "teacherName": "Стефан Василев",
+    "teacherTitle": "none",
+    "teacherEmail": "stefansv@uni-sofia.bg",
+    "department": "МА",
+    "teacherFullname": "Стефан Савов Василев",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 533,
+    "teacherName": "СТЕФАН ДИМИТРОВ",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "stefan@ucc.uni-sofia.bg",
+    "department": "ИС",
+    "teacherFullname": "СТЕФАН СТАНЧЕВ ДИМИТРОВ",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 534,
+    "teacherName": "Стефан Вартоломеев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Стефан Стоев Вартоломеев",
+    "teacherPosition": "демонстр."
+  },
+  {
+    "teacherId": 535,
+    "teacherName": "Стефан Дюлгеров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Стефан Стоев Дюлгеров",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 536,
+    "teacherName": "Стефана Хинева",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Стефана Трифонова Хинева",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 537,
+    "teacherName": "Стефка Димова",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "dimova@fmi.uni-sofia.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Стефка Николаева Димова",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 538,
+    "teacherName": "Стоян Славчев",
+    "teacherTitle": "none",
+    "teacherEmail": "stoian117@gmail.com",
+    "department": "ИТ",
+    "teacherFullname": "Стоян Иванов Славчев",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 539,
+    "teacherName": "Стоян Михов",
+    "teacherTitle": "ст.н.с. д-р",
+    "teacherEmail": "stoyan@lml.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Стоян Милков Михов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 540,
+    "teacherName": "Стоян Бъчваров",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "shb@fmi.uni-sofia.bg",
+    "department": "КИ",
+    "teacherFullname": "Стоян Христов Бъчваров",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 541,
+    "teacherName": "Таня Тонова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Таня Георгиева Тонова",
+    "teacherPosition": "математик"
+  },
+  {
+    "teacherId": 542,
+    "teacherName": "Таня Кавръкова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Таня Михайлова Кавръкова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 543,
+    "teacherName": "Таня Маринова",
+    "teacherTitle": "none",
+    "teacherEmail": "tannen.baum.13@gmail.com",
+    "department": "Алг",
+    "teacherFullname": "Таня Тодорова Маринова",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 544,
+    "teacherName": "Татяна Тодорова",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "Алг",
+    "teacherFullname": "Татяна Любенова Тодорова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 545,
+    "teacherName": "Татяна Иванова",
+    "teacherTitle": "none",
+    "teacherEmail": "tatyana.m.ivanova@gmail.com",
+    "department": "МЛП",
+    "teacherFullname": "Татяна Маринова Иванова",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 546,
+    "teacherName": "Татяна Черногорова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "chernogorova@fmi.uni-sofia.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Татяна Параскевова Черногорова",
+    "teacherPosition": "Доцент"
+  },
+  {
+    "teacherId": 547,
+    "teacherName": "Теменужка Зафирова-Малчева",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "tzafirova@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Теменужка Борисова Зафирова-Малчева",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 548,
+    "teacherName": "Теодоси Витанов",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Теодоси Асенов Витанов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 549,
+    "teacherName": "Тинко Тинчев",
+    "teacherTitle": "проф. д-р",
+    "teacherEmail": "tinko@fmi.uni-sofia.bg",
+    "department": "МЛП",
+    "teacherFullname": "Тинко Величков Тинчев",
+    "teacherPosition": "професор"
+  },
+  {
+    "teacherId": 550,
+    "teacherName": "Тодор Парталин",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Тодор Асенов Парталин",
+    "teacherPosition": "Ръководител катедра"
+  },
+  {
+    "teacherId": 551,
+    "teacherName": "Тодор Балабанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Тодор Димитров Балабанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 552,
+    "teacherName": "Тодор Бояджиев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "АМ",
+    "teacherFullname": "Тодор Любенов Бояджиев",
+    "teacherPosition": "Професор"
+  },
+  {
+    "teacherId": 553,
+    "teacherName": "Тодор Попов",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Тодор Павлов Попов",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 554,
+    "teacherName": "Тодор Боянов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "boyanovt@fmi.uni-sofia.bg",
+    "department": "ЧМА",
+    "teacherFullname": "Тодор Петров Боянов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 555,
+    "teacherName": "Тодор Топалов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Тодор Савов Топалов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 556,
+    "teacherName": "Тодор Кисов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Тодор Стефанов Кисов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 557,
+    "teacherName": "Тошко Боев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Тошко Борисов Боев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 558,
+    "teacherName": "Траян Илиев",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Траян Славчев Илиев",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 559,
+    "teacherName": "Трифон Трифонов",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Трифон Анчев Трифонов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 560,
+    "teacherName": "Филип Филипов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Филип Иванов Филипов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 561,
+    "teacherName": "Христина Зашева",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Христина Александрова Зашева",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 562,
+    "teacherName": "Христо Кабакчиев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "ckabakchiev@fmi.uni-sofia.bg",
+    "department": "СТ",
+    "teacherFullname": "Христо Августов Кабакчиев",
+    "teacherPosition": "проф."
+  },
+  {
+    "teacherId": 563,
+    "teacherName": "Христо Ганчев",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "h.ganchev@gmail.com",
+    "department": "МЛП",
+    "teacherFullname": "Христо Александров Ганчев",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 564,
+    "teacherName": "Христо Генев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Христо Генчев Генев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 565,
+    "teacherName": "Христо Христов",
+    "teacherTitle": "ас. ",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Христо Димов Христов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 566,
+    "teacherName": "Христо Стефанов",
+    "teacherTitle": "none",
+    "teacherEmail": "hristo.stefanov1@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Христо Стефанов Стефанов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 567,
+    "teacherName": "Христо Трайков",
+    "teacherTitle": "none",
+    "teacherEmail": "traykoffch@cc.bas.bg",
+    "department": "Неопр",
+    "teacherFullname": "Христо Стефанов Трайков",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 568,
+    "teacherName": "Христо Кюркчиев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Христо Тихомиров Кюркчиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 569,
+    "teacherName": "Цвета Минчева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Цвета Пенчева Минчева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 570,
+    "teacherName": "Цветан Христов",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Цветан Димитров Христов",
+    "teacherPosition": "асистент"
+  },
+  {
+    "teacherId": 571,
+    "teacherName": "Цветан Семерджиев",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "signal@cablebg.net",
+    "department": "Неопр",
+    "teacherFullname": "Цветан Семерджиев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 572,
+    "teacherName": "Цветан Дунчев",
+    "teacherTitle": "н.с. ",
+    "teacherEmail": "cdunchev@fmi.uni-sofia.bg",
+    "department": "ИТ",
+    "teacherFullname": "Цветан Чавдаров Дунчев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 573,
+    "teacherName": "Цветана Стоянова",
+    "teacherTitle": "гл.ас. д-р",
+    "teacherEmail": "none",
+    "department": "ДУ",
+    "teacherFullname": "Цветана Любенова Стоянова",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 574,
+    "teacherName": "Цветана Иванова",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Геом",
+    "teacherFullname": "Цветана Христинова Иванова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 575,
+    "teacherName": "Цветелина Мечкарова",
+    "teacherTitle": "none",
+    "teacherEmail": "cvetyn@rila.com",
+    "department": "Неопр",
+    "teacherFullname": "Цветелина Николова Мечкарова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 576,
+    "teacherName": "Цветелина Сомлева",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Цветелина Петрова Сомлева",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 577,
+    "teacherName": "Цветомир Тодоров",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "КИ",
+    "teacherFullname": "Цветомир Валериев Тодоров",
+    "teacherPosition": "демонстр."
+  },
+  {
+    "teacherId": 578,
+    "teacherName": "Цветомир Цачев",
+    "teacherTitle": "ст.н.с. II д-р",
+    "teacherEmail": "tsachev@math.bas.bg",
+    "department": "ВОИС",
+    "teacherFullname": "Цветомир Йотов Цачев",
+    "teacherPosition": "ст.н.с."
+  },
+  {
+    "teacherId": 579,
+    "teacherName": "Цоло Иванов",
+    "teacherTitle": "проф. д.м.н",
+    "teacherEmail": "tsoloiv@fmi.uni-sofia.bg",
+    "department": "АМ",
+    "teacherFullname": "Цоло Петров Иванов",
+    "teacherPosition": "Професор"
+  },
+  {
+    "teacherId": 580,
+    "teacherName": "Чавдар Лозанов",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "lozanov@fmi.uni-sofia.bg",
+    "department": "Геом",
+    "teacherFullname": "Чавдар Георгиев Лозанов",
+    "teacherPosition": "доцент"
+  },
+  {
+    "teacherId": 581,
+    "teacherName": "Шарков",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Шарков",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 582,
+    "teacherName": "Юлиан Ревалски",
+    "teacherTitle": "ст.н.с. ",
+    "teacherEmail": "none",
+    "department": "ВОИС",
+    "teacherFullname": "Юлиан Ревалски",
+    "teacherPosition": "ст.н.с"
+  },
+  {
+    "teacherId": 583,
+    "teacherName": "Юлиан Цанков",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "ucankov@fmi.uni-sofia.bg",
+    "department": "Геом",
+    "teacherFullname": "Юлиан Цанков Цанков",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 584,
+    "teacherName": "Юлия Нинова",
+    "teacherTitle": "доц. д-р",
+    "teacherEmail": "none",
+    "department": "ОМИ",
+    "teacherFullname": "Юлия Димитрова Нинова",
+    "teacherPosition": "Главен асистент"
+  },
+  {
+    "teacherId": 585,
+    "teacherName": "Юлиян Станчев",
+    "teacherTitle": "доц. ",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Юлиян Станчев",
+    "teacherPosition": "доц."
+  },
+  {
+    "teacherId": 586,
+    "teacherName": "Юлиян Любенов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Юлиян Юлиянов Любенов",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 587,
+    "teacherName": "Юри Борисов",
+    "teacherTitle": " д-р",
+    "teacherEmail": "none",
+    "department": "ИС",
+    "teacherFullname": "Юри Любчов Борисов",
+    "teacherPosition": "преподавател"
+  },
+  {
+    "teacherId": 588,
+    "teacherName": "Юрий Донев",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Юрий Светлозаров Донев",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 589,
+    "teacherName": "Юрий Хомски",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "МЛП",
+    "teacherFullname": "Юрий Хомски",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 590,
+    "teacherName": "Явор Христов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "ИТ",
+    "teacherFullname": "Явор Христов",
+    "teacherPosition": "мат."
+  },
+  {
+    "teacherId": 591,
+    "teacherName": "Яна Алексиева",
+    "teacherTitle": "гл.ас. ",
+    "teacherEmail": "yana_a_n@fmi.uni-sofia.bg",
+    "department": "Геом",
+    "teacherFullname": "Яна Алексиева Алексиева",
+    "teacherPosition": "главен асистент"
+  },
+  {
+    "teacherId": 592,
+    "teacherName": "Янка Тодорова",
+    "teacherTitle": "none",
+    "teacherEmail": " todorova.yana@gmail.com",
+    "department": "Неопр",
+    "teacherFullname": "Янка Големинова Тодорова",
+    "teacherPosition": "none"
+  },
+  {
+    "teacherId": 593,
+    "teacherName": "Ясен Цветанов",
+    "teacherTitle": "none",
+    "teacherEmail": "none",
+    "department": "Неопр",
+    "teacherFullname": "Ясен Деянов Цветанов",
+    "teacherPosition": "none"
+  }
+]
