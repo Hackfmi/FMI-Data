@@ -1,6 +1,6 @@
 <table border="1" cellpadding="1" cellspacing="1">
+<script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
 
-    
 
 <tbody><tr style="font-weight: bold; color: white; text-align: center; background: grey">
 
@@ -3598,3 +3598,22 @@
 </tr>
     
 </tbody></table>
+
+
+<script>
+var output = [];
+var temp;
+var cellValues;
+$('tr').each(function () {
+    temp = 'INSERT INTO `Courses` VALUES (';
+    cellValues = [];
+    $(this).children().each(function () {
+        cellValues.push('"' + $(this).text() + '"'); // <-- you may need to do escaping here
+    });
+    temp += cellValues.join(", ") + ");";
+    output.push(temp);
+});
+
+console.log(output.join("\n"));
+
+</script>			
