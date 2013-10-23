@@ -1,0 +1,500 @@
+{
+    "bachelor" : {
+        "label" : "Бакалавър",
+        "Informatics" : {
+            "label" : "Информатика",
+            "year1" : {
+                "label" : "1ви курс",
+                "flows" : [
+                        {
+                            "monday" : {
+                                    "groups" : [
+                                        [
+                                            {
+                                                "label": "ЛА",
+                                                "room": "03",
+                                                "start": 10,
+                                                "end": 13,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС  I",
+                                                "room": "101 проф.  Д.Толев",
+                                                "start": 14,
+                                                "end": 16,
+                                                "type": "lecture"
+                                            },
+                                            {
+                                                "label": "ЛА",
+                                                "room": "101 проф.  Н.Ненов",
+                                                "start": 16,
+                                                "end": 18,
+                                                "type": "lecture"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "label": "ДИС I",
+                                                "room": "514",
+                                                "start": 10,
+                                                "end": 12,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "УП",
+                                                "room": "314к",
+                                                "start": 12,
+                                                "end": 14,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС  I",
+                                                "room": "101 проф.  Д.Толев",
+                                                "start": 14,
+                                                "end": 16,
+                                                "type": "lecture"
+                                            },
+                                            {
+                                                "label": "ЛА",
+                                                "room": "101 проф.  Н.Ненов",
+                                                "start": 16,
+                                                "end": 18,
+                                                "type": "lecture"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "label": "УП",
+                                                "room": "314к",
+                                                "start": 10,
+                                                "end": 12,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС I",
+                                                "room": "305",
+                                                "start": 12,
+                                                "end": 14,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС  I",
+                                                "room": "101 проф.  Д.Толев",
+                                                "start": 14,
+                                                "end": 16,
+                                                "type": "lecture"
+                                            },
+                                            {
+                                                "label": "ЛА",
+                                                "room": "101 проф.  Н.Ненов",
+                                                "start": 16,
+                                                "end": 18,
+                                                "type": "lecture"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "label": "ДИС I",
+                                                "room": "404",
+                                                "start": 10,
+                                                "end": 12,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "УП",
+                                                "room": "321 к",
+                                                "start": 12,
+                                                "end": 14,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС  I",
+                                                "room": "101 проф.  Д.Толев",
+                                                "start": 14,
+                                                "end": 16,
+                                                "type": "lecture"
+                                            },
+                                            {
+                                                "label": "ЛА",
+                                                "room": "101 проф.  Н.Ненов",
+                                                "start": 16,
+                                                "end": 18,
+                                                "type": "lecture"
+                                            }
+                                        ],
+                                        [
+                                            {
+                                                "label": "УП",
+                                                "room": "321 к",
+                                                "start": 10,
+                                                "end": 12,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС I",
+                                                "room": "404",
+                                                "start": 12,
+                                                "end": 14,
+                                                "type": "lab"
+                                            },
+                                            {
+                                                "label": "ДИС  I",
+                                                "room": "101 проф.  Д.Толев",
+                                                "start": 14,
+                                                "end": 16,
+                                                "type": "lecture"
+                                            },
+                                            {
+                                                "label": "ЛА",
+                                                "room": "101 проф.  Н.Ненов",
+                                                "start": 16,
+                                                "end": 18,
+                                                "type": "lecture"
+                                            }
+                                        ]
+                                    ]
+                            },
+                            "tuesday" : {
+                                "groups" : [
+                                    [
+                                        {
+                                            "label": "ДИС I",
+                                            "room": "401",
+                                            "start": 9,
+                                            "end": 11,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "ЛА",
+                                            "room": "101 проф.  Н.Ненов",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "ДИС  I",
+                                            "room": "101 проф.  Д.Толев",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lecture"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ЛА",
+                                            "room": "101 проф.  Н.Ненов",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "ДИС  I",
+                                            "room": "101 проф.  Д.Толев",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "ЛА",
+                                            "room": "ФХФ-601",
+                                            "start": 15,
+                                            "end": 18,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ЛА",
+                                            "room": "101 проф.  Н.Ненов",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "ДИС  I",
+                                            "room": "101 проф.  Д.Толев",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "314к",
+                                            "start": 15,
+                                            "end": 18,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ЛА",
+                                            "room": "101 проф.  Н.Ненов",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "ДИС  I",
+                                            "room": "101 проф.  Д.Толев",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "321 к",
+                                            "start": 15,
+                                            "end": 18,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ЛА",
+                                            "room": "101 проф.  Н.Ненов",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "ДИС  I",
+                                            "room": "101 проф.  Д.Толев",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "АГ",
+                                            "room": "307",
+                                            "start": 15,
+                                            "end": 17,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "122к",
+                                            "start": 17,
+                                            "end": 19,
+                                            "type": "lab"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "wednesday" : {
+                                "groups" : [
+                                    [
+                                        {
+                                            "label": "АГ",
+                                            "room": "101 доц.  А.Русева",
+                                            "start": 12,
+                                            "end": 14,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "325 гл.асист.  К.Николов",
+                                            "start": 14,
+                                            "end": 17,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "017к",
+                                            "start": 17,
+                                            "end": 19,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "АГ",
+                                            "room": "101 доц.  А.Русева",
+                                            "start": 12,
+                                            "end": 14,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "325 гл.асист.  К.Николов",
+                                            "start": 14,
+                                            "end": 17,
+                                            "type": "lecture"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ДИС I",
+                                            "room": "401",
+                                            "start": 10,
+                                            "end": 12,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "АГ",
+                                            "room": "101 доц.  А.Русева",
+                                            "start": 12,
+                                            "end": 14,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "325 гл.асист.  К.Николов",
+                                            "start": 14,
+                                            "end": 17,
+                                            "type": "lecture"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ДИС I",
+                                            "room": "404",
+                                            "start": 9,
+                                            "end": 11,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "АГ",
+                                            "room": "101 доц.  А.Русева",
+                                            "start": 12,
+                                            "end": 14,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "325 гл.асист.  К.Николов",
+                                            "start": 14,
+                                            "end": 17,
+                                            "type": "lecture"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "АГ",
+                                            "room": "101 доц.  А.Русева",
+                                            "start": 12,
+                                            "end": 14,
+                                            "type": "lecture"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "325 гл.асист.  К.Николов",
+                                            "start": 14,
+                                            "end": 17,
+                                            "type": "lecture"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "thursday" : {
+                                "groups" : [
+                                    [
+                                        {
+                                            "label": "ДИС I",
+                                            "room": "209Б",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "АГ",
+                                            "room": "209Б",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "| УП",
+                                            "room": "306к",
+                                            "start": 15,
+                                            "end": 18,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ДИС I",
+                                            "room": "ФХФ-603",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "УП",
+                                            "room": "321 к",
+                                            "start": 13,
+                                            "end": 15,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "АГ",
+                                            "room": "209Б",
+                                            "start": 15,
+                                            "end": 17,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "АГ",
+                                            "room": "304",
+                                            "start": 11,
+                                            "end": 13,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "ЛА",
+                                            "room": "304",
+                                            "start": 13,
+                                            "end": 16,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ЛА",
+                                            "room": "04",
+                                            "start": 10,
+                                            "end": 13,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "АГ",
+                                            "room": "04",
+                                            "start": 13,
+                                            "end": 16,
+                                            "type": "lab"
+                                        }
+                                    ],
+                                    [
+                                        {
+                                            "label": "ЛА",
+                                            "room": "ФМИ-501",
+                                            "start": 13,
+                                            "end": 16,
+                                            "type": "lab"
+                                        },
+                                        {
+                                            "label": "ДИС I",
+                                            "room": "526",
+                                            "start": 16,
+                                            "end": 18,
+                                            "type": "lab"
+                                        }
+                                    ]
+                                ]
+                            },
+                            "friday" : {
+                                "groups" : [
+                                ]
+                            },
+                            "saturday" : {
+                                "groups" : [
+
+                                ]
+                            }
+                        }
+                ]
+            }
+        }
+    }
+}
