@@ -1,0 +1,414 @@
+{
+    "label" : "Компютърни Науки",
+    "year1" : {
+        "label" : "Първи курс",
+        "flows" : [
+            [
+                {
+                    "monday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "229",
+                                    "start": 8,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. Г.Александров"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "03",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "229",
+                                    "start": 8,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. Г.Александров"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "229",
+                                    "start": 8,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. Г.Александров"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "308",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "229",
+                                    "start": 8,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. Г.Александров"
+                                },
+                                {
+                                    "label": "Алг-1",
+                                    "room": "307",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 7,
+                                    "end": 9,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг-1",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Е. Великова"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. Г.И.Георгиев"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг-1",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Е. Великова"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. Г.И.Георгиев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг-1",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Е. Великова"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. Г.И.Георгиев"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг-1",
+                                    "room": "308",
+                                    "start": 8,
+                                    "end": 9,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг-1",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Е. Великова"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. Г.И.Георгиев"
+                                }
+                            ]
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "120к",
+                                    "start": 7,
+                                    "end": 9,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "проф. М.Тодорова"
+                                },
+                                {
+                                    "label": "ДИС 1",
+                                    "room": "209Б",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "314к",
+                                    "start": 7,
+                                    "end": 9,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "проф. М.Тодорова"
+                                },
+                                {
+                                    "label": "ДИС 1",
+                                    "room": "209Б",
+                                    "start": 14,
+                                    "end": 16,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "019к",
+                                    "start": 7,
+                                    "end": 9,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "проф. М.Тодорова"
+                                },
+                                {
+                                    "label": "Алг-1",
+                                    "room": "401",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                              {
+                                  "label": "УП",
+                                  "room": "306к",
+                                  "start": 7,
+                                  "end": 9,
+                                  "type": "lab"
+                              },
+                              {
+                                  "label": "УП",
+                                  "room": "101",
+                                  "start": 9,
+                                  "end": 12,
+                                  "type": "lecture",
+                                  "teacher" : "проф. М.Тодорова"
+                              },
+                              {
+                                  "label": "ДИС-1",
+                                  "room": "404",
+                                  "start": 12,
+                                  "end": 15,
+                                  "type": "lab"
+                              }  
+                            ]
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "401",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг-1",
+                                    "room": "401",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                } 
+                            ],
+                            [
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "311",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС-1",
+                                    "room": "311",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг-1",
+                                    "room": "311",
+                                    "start": 14,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 8,
+                                    "end": 10,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС-1",
+                                    "room": "03",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "308",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС-1",
+                                    "room": "308",
+                                    "start": 16,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : []
+                    },
+                    "saturday" : {
+                        "groups" : []
+                    }
+                }
+            ],
+            [
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            ]
+        ]
+    }
+}
