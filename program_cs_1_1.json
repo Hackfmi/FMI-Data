@@ -1629,58 +1629,230 @@
             
                 {
                     "monday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
+                        "groups" : []
                     },
                     "tuesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "МрПр",
+                                    "room": "01",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. С.Русева"
+                                },
+                                {
+                                    "label": "СП",
+                                    "room": "01",
+                                    "start": 16,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. М.Филипова"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "МрПр",
+                                    "room": "01",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. С.Русева"
+                                },
+                                {
+                                    "label": "СП",
+                                    "room": "01",
+                                    "start": 16,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. М.Филипова"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "МрПр",
+                                    "room": "01",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. С.Русева"
+                                },
+                                {
+                                    "label": "СП",
+                                    "room": "01",
+                                    "start": 16,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "гл.асист. М.Филипова"
+                                }
+                            ]
                         ]
                     },
                     "wednesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "СП",
+                                    "room": "120к",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ЛогП",
+                                    "room": "304",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ЛогП",
+                                    "room": "ФХФ-603",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "СП",
+                                    "room": "120к",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ЧА",
+                                    "room": "321 к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ЛогП",
+                                    "room": "ФХФ-603",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "СП",
+                                    "room": "120к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ЧА",
+                                    "room": "321 к",
+                                    "start": 17,
+                                    "end": 19,
+                                    "type": "lab"
+                                }
+                            ]
                         ]
                     },
                     "thursday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "ЧА",
+                                    "room": "326",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Н.Найденов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ЧА",
+                                    "room": "326",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Н.Найденов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ЧА",
+                                    "room": "326",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Н.Найденов"
+                                }
+                            ]
                         ]
                     },
                     "friday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "ЛогП",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Т.Тинчев"
+                                },
+                                {
+                                    "label": "ЧА",
+                                    "room": "313к",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "МрПр",
+                                    "room": "323к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ЛогП",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Т.Тинчев"
+                                },
+                                {
+                                    "label": "МрПр",
+                                    "room": "323к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }  
+                            ],
+                            [
+                                {
+                                    "label": "ЛогП",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Т.Тинчев"
+                                },
+                                {
+                                    "label": "МрПр",
+                                    "room": "323к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }  
+                            ]
                         ]
                     },
                     "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
+                        "groups" : []
                     }
                 }
             
