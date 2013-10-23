@@ -1857,5 +1857,217 @@
                 }
             
         ]
+    },
+    "year4" : {
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : []
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "САрх",
+                                    "room": "325",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Д.Биров"
+                                },
+                                {
+                                    "label": "ИИ",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "доц. И.Койчев"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "САрх",
+                                    "room": "325",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Д.Биров"
+                                },
+                                {
+                                    "label": "ИИ",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "доц. И.Койчев"
+                                }
+                            ],
+                            [
+
+                                {
+                                    "label": "WWWТех",
+                                    "room": "WWWТех",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "САрх",
+                                    "room": "325",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Д.Биров"
+                                },
+                                {
+                                    "label": "ИИ",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "доц. И.Койчев"
+                                }
+                            ]
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "WWWТех",
+                                    "room": "325",
+                                    "start": 8,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. М.Петров"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "WWWТех",
+                                    "room": "325",
+                                    "start": 8,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. М.Петров"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "WWWТех",
+                                    "room": "325",
+                                    "start": 8,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. М.Петров"
+                                }
+                            ]
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : []
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ИИ",
+                                    "room": "019к",
+                                    "start": 8,
+                                    "end": 10,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "WWWТех",
+                                    "room": "321к",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "WWWТех",
+                                    "room": "321к",
+                                    "start": 8,
+                                    "end": 10,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ИИ",
+                                    "room": "019к",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lab"
+                                }
+                            ],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : []
+                    }
+                }
+            ,
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            
+        ]
     }
 }
