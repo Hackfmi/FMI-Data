@@ -361,51 +361,399 @@
                 {
                     "monday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "01",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher": "гл.асист. М.Марков"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "01",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher": "гл.асист. М.Марков"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "308",
+                                    "start": 16,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "01",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher": "гл.асист. М.Марков"
+                                },
+                                {
+                                        "label": "УП",
+                                        "room": "321 к",
+                                        "start": 16,
+                                        "end": 18,
+                                        "type": "lab"
+                                    },
+                                    {
+                                        "label": "ДИС I",
+                                        "room": "308",
+                                        "start": 18,
+                                        "end": 20,
+                                        "type": "lab"
+                                    }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "01",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher": "гл.асист. М.Марков"
+                                },
+                                {
+                                       "label": "ДИС I",
+                                       "room": "209Б",
+                                       "start": 16,
+                                       "end": 18,
+                                       "type": "lab"
+                                   },
+                                   {
+                                       "label": "УП",
+                                       "room": "321 к",
+                                       "start": 18,
+                                       "end": 20,
+                                       "type": "lab"
+                                   }
+                            ]
                         ]
                     },
                     "tuesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "321 к",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "303",
+                                    "start": 13,
+                                    "end": 14,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "311",
+                                    "start": 14,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "229",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Т. Трифонов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "229",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Т. Трифонов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг",
+                                    "room": "514",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "229",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Т. Трифонов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг",
+                                    "room": "ФХФ-601",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "229",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Т. Трифонов"
+                                }
+                            ]
                         ]
                     },
                     "wednesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "Алг-I",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "проф. А.Каспарян"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "310",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг-I",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "проф. А.Каспарян"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "307",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг-I",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "проф. А.Каспарян"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "Алг-I",
+                                    "room": "229",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "проф. А.Каспарян"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lecture",
+                                    "teacher": "доц. Н.Рибарска"
+                                }
+                            ]
                         ]
                     },
                     "thursday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "307",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг-I",
+                                    "room": "307",
+                                    "start": 14,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+
+                            ],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "321к",
+                                    "start": 8,
+                                    "end": 10,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "404",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "310",
+                                    "start": 8,
+                                    "end": 10,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "310",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "319к",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДисСтр",
+                                    "room": "405",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "405",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "321к",
+                                    "start": 17,
+                                    "end": 19,
+                                    "type": "lab"
+                                }
+                            ]
                         ]
                     },
                     "friday" : {
                         "groups" : [
                             [],
-                            [],
+                            [
+                                {
+                                    "label": "УП",
+                                    "room": "321к",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг-I",
+                                    "room": "209Б",
+                                    "start": 14,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ],
                             [],
                             []
                         ]
                     },
                     "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
+                        "groups" : []
                     }
                 }
             ]
