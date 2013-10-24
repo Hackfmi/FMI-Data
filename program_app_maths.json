@@ -235,118 +235,150 @@
                 {
                     "monday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
+                            [
+                                {
+                                    "label": "ДУ",
+                                    "room": "405",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "МА",
+                                    "room": "405",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
                             []
                         ]
                     },
                     "tuesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "ДМ",
+                                    "room": "209Б",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ММод",
+                                    "room": "326",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher" : "проф. М.Кръстанов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДУ",
+                                    "room": "305",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ММод",
+                                    "room": "326",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lecture",
+                                    "teacher" : "проф. М.Кръстанов"
+                                }
+                            ]
                         ]
                     },
                     "wednesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "МА",
+                                    "room": "500",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Н.Рибарска"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "МА",
+                                    "room": "303",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДМ",
+                                    "room": "303",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "МА",
+                                    "room": "500",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Н.Рибарска"
+                                }
+                            ]
                         ]
                     },
                     "thursday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "ДМ",
+                                    "room": "229",
+                                    "start": 8,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Хр.Ганчев"
+                                },
+                                {
+                                    "label": "ДУ",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 14,
+                                    "type": "lecture",
+                                    "teacher" : "доц. А.Живков"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДМ",
+                                    "room": "229",
+                                    "start": 8,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Хр.Ганчев"
+                                },
+                                {
+                                    "label": "ДУ",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 14,
+                                    "type": "lecture",
+                                    "teacher" : "доц. А.Живков"
+                                }
+                            ]
                         ]
                     },
                     "friday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
                         ]
                     },
                     "saturday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
                         ]
                     }
                 }
-            ,
-            
-                {
-                    "monday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "tuesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "wednesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "thursday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "friday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    }
-                }
-            
         ]
     },
     "year3" : {
