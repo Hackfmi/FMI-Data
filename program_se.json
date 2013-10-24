@@ -117,47 +117,350 @@
                     },
                     "tuesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                            {
+                                    "label": "ДИС I",
+                                    "room": "401",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lab"
+                                }],
+                            [
+                            {
+                                   "label": "УП",
+                                   "room": "321 к",
+                                   "start": 11,
+                                   "end": 13,
+                                   "type": "lab"
+                               },
+                               {
+                                   "label": "ДИС I",
+                                   "room": "401",
+                                   "start": 13,
+                                   "end": 15,
+                                   "type": "lab"
+                               }],
+                            [
+                            {
+                                    "label": "Алг",
+                                    "room": "307",
+                                    "start": 11,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "401",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }],
+                            [
+                            {
+                                   "label": "ДИС I",
+                                   "room": "405",
+                                   "start": 11,
+                                   "end": 13,
+                                   "type": "lab"
+                               },
+                               {
+                                   "label": "УП",
+                                   "room": "321 к",
+                                   "start": 13,
+                                   "end": 15,
+                                   "type": "lab"
+                               }],
+                            [
+                            {
+                                   "label": "АЕ",
+                                   "room": "216",
+                                   "start": 11,
+                                   "end": 13,
+                                   "type": "lab"
+                               },
+                               {
+                                   "label": "ДИС I",
+                                   "room": "405",
+                                   "start": 13,
+                                   "end": 15,
+                                   "type": "lab"
+                               }]
                         ]
                     },
                     "wednesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                            {
+                                "label": "Алг",
+                                "room": "311",
+                                "start": 10,
+                                "end": 13,
+                                "type": "lab"
+                            },
+                            {
+                                "label": "ДИС I",
+                                "room": "311",
+                                "start": 13,
+                                "end": 15,
+                                "type": "lab"
+                            },
+                            {
+                                "label": "АЕ",
+                                "room": "311",
+                                "start": 15,
+                                "end": 17,
+                                "type": "lab"
+                            }],
+                            [
+                            {
+                                    "label": "АЕ",
+                                    "room": "310",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "310",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lab"
+                                }],
+                            [
+                            {
+                                    "label": "АЕ",
+                                    "room": "307",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "319к",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "405",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }],
+                            [
+                            {
+                                   "label": "ДисСтр I",
+                                   "room": "ФХФ-601",
+                                   "start": 10,
+                                   "end": 13,
+                                   "type": "lab"
+                               },
+                               {
+                                   "label": "АЕ",
+                                   "room": "216",
+                                   "start": 13,
+                                   "end": 15,
+                                   "type": "lab"
+                               },
+                               {
+                                   "label": "ДИС I",
+                                   "room": "401",
+                                   "start": 15,
+                                   "end": 17,
+                                   "type": "lab"
+                               }],
+                            [
+                            {
+                                   "label": "ДИС I",
+                                   "room": "310",
+                                   "start": 13,
+                                   "end": 15,
+                                   "type": "lab"
+                               },
+                               {
+                                   "label": "ДисСтр I",
+                                   "room": "514",
+                                   "start": 15,
+                                   "end": 18,
+                                   "type": "lab"
+                               }]
                         ]
                     },
                     "thursday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                            {
+                                    "label": "Алг",
+                                    "room": "325",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "акад. В.Дренски"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "101",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Ал.Гигов"
+                                }],
+                            [{
+                                    "label": "Алг",
+                                    "room": "325",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "акад. В.Дренски"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "101",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Ал.Гигов"
+                                }],
+                            [
+                            {
+                                    "label": "Алг",
+                                    "room": "325",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "акад. В.Дренски"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "101",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Ал.Гигов"
+                                }],
+                            [
+                            {
+                                    "label": "Алг",
+                                    "room": "325",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "акад. В.Дренски"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "101",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Ал.Гигов"
+                                }],
+                            [
+                            {
+                                    "label": "Алг",
+                                    "room": "325",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "акад. В.Дренски"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "101",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "325",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. Ал.Гигов"
+                                }]
                         ]
                     },
                     "friday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [ {
+                                    "label": "ДисСтрI",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. А.Дичев"
+                                }],
+                            [
+                            {
+                                    "label": "ДисСтрI",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. А.Дичев"
+                                }],
+                            [
+                            {
+                                    "label": "ДисСтрI",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. А.Дичев"
+                                }],
+                            [
+                            {
+                                    "label": "ДисСтрI",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. А.Дичев"
+                                }],
+                            [
+                            {
+                                    "label": "ДисСтрI",
+                                    "room": "101",
+                                    "start": 9,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. А.Дичев"
+                                }]
                         ]
                     }
                 }
