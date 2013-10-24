@@ -256,239 +256,121 @@
                 {
                     "monday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "АМ",
+                                    "room": "304",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц.  Г.Бояджиев"
+                                },
+                                {
+                                    "label": "КА",
+                                    "room": "304",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "доц. В  .Хаджийски"
+                                },
+                                {
+                                    "label": "ЧДУ",
+                                    "room": "ФЗФ-А305",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "КА",
+                                    "room": "ФЗФ-А305",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ]
                         ]
                     },
                     "tuesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                    "label": "КА",
+                                    "room": "304",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "доц. В.Хаджийски"
+                                },
+                                {
+                                    "label": "МЛ",
+                                    "room": "305",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ЩУ",
+                                    "room": "305",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lecture",
+                                    "teacher" : "доц. И.Йорданов"
+                                }
+                            ]
                         ]
                     },
                     "wednesday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                               {
+                                   "label": "МЛ",
+                                   "room": "308",
+                                   "start": 9,
+                                   "end": 12,
+                                   "type": "lecture",
+                                   "teacher" : "доц. Хр.Ганчев"
+                               },
+                               {
+                                    "label": "АМ",
+                                    "room": "304",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц.  Г.Бояджиев"
+                                }
+                            ]
                         ]
                     },
                     "thursday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
+                            [
+                                {
+                                     "label": "АМ",
+                                     "room": "304",
+                                     "start": 13,
+                                     "end": 15,
+                                     "type": "lab"
+                                 },
+                                 {
+                                     "label": "ЩУ",
+                                     "room": "305",
+                                     "start": 15,
+                                     "end": 17,
+                                     "type": "lecture",
+                                     "teacher" : "доц. И.Йорданов"
+                                 }
+                            ]
                         ]
                     },
                     "friday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
                         ]
                     },
                     "saturday" : {
                         "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
                         ]
                     }
                 }
-            ,
-            
-                {
-                    "monday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "tuesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "wednesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "thursday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "friday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    }
-                }
-            
-        ]
-    },
-    "year4" : {
-        "label" : "Четвърти курс",
-        "flows" : [
-            
-                {
-                    "monday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "tuesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "wednesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "thursday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "friday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    }
-                }
-            ,
-            
-                {
-                    "monday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "tuesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "wednesday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "thursday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "friday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    },
-                    "saturday" : {
-                        "groups" : [
-                            [],
-                            [],
-                            [],
-                            [],
-                            []
-                        ]
-                    }
-                }
-            
         ]
     }
 }
