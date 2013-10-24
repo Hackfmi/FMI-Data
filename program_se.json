@@ -1,0 +1,352 @@
+{
+    "label" : "Софтуерно инженерство",
+    "year1" : {
+        "label" : "Първи курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "ДисСтрI",
+                                    "room": "311",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "Алг",
+                                    "room": "526",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДисСтр I",
+                                    "room": "526",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "ДисСтрI",
+                                    "room": "514",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "Алг",
+                                    "room": "401",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС  I",
+                                    "room": "200",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher": "доц. В.Бабев"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "306к",
+                                    "start": 12,
+                                    "end": 14,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "Алг",
+                                    "room": "401",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+        ]
+    },
+    "year2" : {
+        "label" : "Втори курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+        ]
+    },
+    "year3" : {
+        "label" : "Трети курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+        ]
+    },
+    "year4" : {
+        "label" : "Четвърти курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+        ]
+    }
+}
