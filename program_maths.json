@@ -1,0 +1,130 @@
+{
+    "label" : "Математика",
+    "year1" : {
+        "label" : "Първи курс",
+        "flows" : [
+                {
+                    "monday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "310",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lecture",
+                                    "teacher" : "проф.Малеев"
+                                },
+                                {
+                                    "label": "ЛА",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. П.Сидеров"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "02",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lecture",
+                                    "teacher" : "доц. П.Павлов"
+                                }
+                            ]
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ЛА",
+                                    "room": "303",
+                                    "start": 8,
+                                    "end": 11,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "303",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "501",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "304",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф.Малеев"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "302",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "319к",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "Аналитична Геометрия",
+                                    "room": "305",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. С.Иванов"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. П.Павлов"
+                                },
+                                {
+                                    "label": "Аналитична Геометрия",
+                                    "room": "404",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : []
+                    },
+                    "saturday" : {
+                        "groups" : []
+                    }
+                }
+        ]
+    }
+}
