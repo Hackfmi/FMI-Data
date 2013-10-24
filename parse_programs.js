@@ -30,6 +30,9 @@ wrench.readdirRecursive(rawDataFolder, function(error, curFiles) {
         var replaceWith = "text/html; charset=utf-8";
         $("meta").attr("content", replaceWith);
         $("script").remove();
+        $("body").append('<script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>');
+        $("body").append('<script src="http://underscorejs.org/underscore.js" type="text/javascript"></script>');
+        $("body").append('<script src="../../../../parse_programs_include.js" type="text/javascript"></script>');
         fs.writeFileSync(buildPathToFile(item), $.html());
     });
 });
