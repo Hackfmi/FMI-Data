@@ -126,5 +126,369 @@
                     }
                 }
         ]
+    },
+    "year2" : {
+        "label" : "Втори курс",
+        "flows" : [
+                {
+                    "monday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "СДП",
+                                    "room": "01",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц.  Е.Кръстев"
+                                },
+                                {
+                                    "label": "МА I",
+                                    "room": "302",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Р.Леви"
+                                },
+                                {
+                                    "label": "ВА II",
+                                    "room": "302",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "проф.Каспарян"
+                                },
+                                {
+                                    "label": "МА I",
+                                    "room": "514",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "МА I",
+                                    "room": "302",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Р.Леви"
+                                },
+                                {
+                                    "label": "ВА II",
+                                    "room": "302",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "СДП",
+                                    "room": "309к",
+                                    "start": 16,
+                                    "end": 18,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ид СДП(практ)",
+                                    "room": "309к",
+                                    "start": 18,
+                                    "end": 20,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДУ",
+                                    "room": "302",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "СДП",
+                                    "room": "02",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц.  Е.Кръстев"
+                                },
+                                {
+                                    "label": "ДУ",
+                                    "room": "302",
+                                    "start": 11,
+                                    "end": 14,
+                                    "type": "lab",
+                                    "teacher" : "проф. Е.Хорозов"
+                                }
+                            ]
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                        ]
+                    }
+                }
+        ]
+    },
+    "year3" : {
+        "label" : "Трети курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            ,
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            
+        ]
+    },
+    "year4" : {
+        "label" : "Четвърти курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            ,
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            
+        ]
     }
 }
