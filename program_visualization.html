@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=utf-8">
+    <title>Program visualization</title>
+</head>
+<body>
+    <div id="hackfmi-root"></div>
+
+    <script src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script src="http://underscorejs.org/underscore.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            function toId(selector) {
+                return "#" + selector;
+            }
+
+            function days() {
+                return ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+            }
+
+            function labelOrDefault(item, defaultValue) {
+                if(!_.isUndefined(item.label)) {
+                    return item.label;
+                }
+
+                return defaultValue;
+            }
+
+            var renderProgramItem = (function() {
+                var itemTemplate = "<strong><%= label %></strong> От: <%= startTime %> До: <%= endTime %>";
+
+                return function(programItem) {
+                    return _.template(itemTemplate, {
+                        label : labelOrDefault(programItem, "Предмет без label"),
+                        startTime : programItem.start,
+                        endTime : programItem.end
+                    });
+                };
+
+            })();
+
+            $.getJSON('program_cs_1_1.json', {}, function(json, textStatus) {
+                console.log(json);
+                var root = "#hackfmi-root";
+                $("<h1></h1>").html(labelOrDefault(json, "Няма label за тази програма")).appendTo(root);
+
+                _.each(["year1", "year2", "year3", "year4"], function(year) {
+                    $("<h2></h2>")
+                        .attr("id", year)
+                        .html(labelOrDefault(json[year], year))
+                        .appendTo(root);
+
+                    var flows = json[year].flows;
+                    for(var i = 0, len = flows.length; i < len; i ++) {
+                        var $p = $("<p></p>")
+                            .html("Поток " + (i + 1).toString());
+                        console.log($p);
+                        $(toId(year))
+                            .after($p);
+
+                        var $containerDiv = $("<div></div>");
+                        $p.after($containerDiv);
+
+                        _.each(days(), function(day) {
+                            $containerDiv.append(
+                                                 $("<strong></strong>")
+                                                    .html(labelOrDefault(flows[i][day], day))
+                                                );
+                            $containerDiv.append($("<br />"));
+
+                            for(var j = 0, flowsLen = flows[i][day].groups.length; j < flowsLen; j++) {
+                                console.log("Looping");
+                                $containerDiv.append(
+                                                        $("<p></p>")
+                                                        .html("Група " + (j + 1).toString()));
+                                var $programList = $containerDiv.append("<ul></ul>");
+
+                                _.each(flows[i][day].groups[j], function(currentGroupProgramItem) {
+                                    $programList.append($("<li></li>").html(renderProgramItem(currentGroupProgramItem)));
+                                });
+                            }
+                        });
+                    }
+                });
+
+            });
+        });
+    </script>
+</body>
+</html>
