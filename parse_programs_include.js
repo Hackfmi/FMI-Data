@@ -169,6 +169,14 @@ $(document).ready(function() {
           "end" : getEndTime(x.item, x.index, 5),
           "type" : getType(x.item)
         };
+      }).map(function(item) {
+        if(item.type === "lecture") {
+          var roomLecture = _.compact(item.room.split(" "));
+          item.room = roomLecture.shift();
+          item.teacher = roomLecture.join(" ");
+        }
+
+        return item;
       });
       console.log(JSON.stringify(groupWithLabels, null, 4));
     });
