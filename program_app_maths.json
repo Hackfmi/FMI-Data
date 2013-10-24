@@ -1,0 +1,594 @@
+{
+    "label" : "Приложна Математика",
+    "year1" : {
+        "label" : "Първи курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ЛА",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Сидеров"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "02",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Павлов"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "314к",
+                                    "start": 17,
+                                    "end": 19,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "526",
+                                    "start": 10,
+                                    "end": 12,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ЛА",
+                                    "room": "229",
+                                    "start": 12,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Сидеров"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "02",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Павлов"
+                                }
+                            ]
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "04",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "АГ",
+                                    "room": "04",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ЛА",
+                                    "room": "302",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "03",
+                                    "start": 8,
+                                    "end": 10,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "АГ",
+                                    "room": "03",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "АГ",
+                                    "room": "02",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Б.Александров"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Л.Николова"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "307",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "АГ",
+                                    "room": "02",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher" : "доц. Б.Александров"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Л.Николова"
+                                },
+                                {
+                                    "label": "ЛА",
+                                    "room": "04",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "122к",
+                                    "start": 17,
+                                    "end": 19,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "209Б",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lab"
+                                },
+                                {
+                                    "label": "ДИС I",
+                                    "room": "229",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Л.Николова"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. П.Павлов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "ДИС I",
+                                    "room": "229",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher" : "проф. Л.Николова"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "200",
+                                    "start": 13,
+                                    "end": 15,
+                                    "type": "lecture",
+                                    "teacher" : "доц. П.Павлов"
+                                },
+                                {
+                                    "label": "УП",
+                                    "room": "04",
+                                    "start": 15,
+                                    "end": 17,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                        ]
+                    }
+                }
+        ]
+    },
+    "year2" : {
+        "label" : "Втори курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            ,
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            
+        ]
+    },
+    "year3" : {
+        "label" : "Трети курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            ,
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            
+        ]
+    },
+    "year4" : {
+        "label" : "Четвърти курс",
+        "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            ,
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    },
+                    "saturday" : {
+                        "groups" : [
+                            [],
+                            [],
+                            [],
+                            [],
+                            []
+                        ]
+                    }
+                }
+            
+        ]
+    }
+}
