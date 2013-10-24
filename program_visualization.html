@@ -40,7 +40,7 @@
 
             })();
 
-            $.getJSON('program_cs_1_1.json', {}, function(json, textStatus) {
+            $.getJSON('program_cs.json', {}, function(json, textStatus) {
                 console.log(json);
                 var root = "#hackfmi-root";
                 $("<h1></h1>").html(labelOrDefault(json, "Няма label за тази програма")).appendTo(root);

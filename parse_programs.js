@@ -2,7 +2,6 @@ var
     wrench = require("wrench"),
     fs = require("fs"),
     cheerio = require("cheerio"),
-    parseHelper = require("./parse_programs_helper.js"),
     $ = null,
     rawDataFolder = "program-raw-data";
 
@@ -12,28 +11,6 @@ var matchFileName = function(currentFile, fileNameToMatch) {
 
 var buildPathToFile = function(file) {
     return [__dirname, rawDataFolder, file].join("/");
-};
-
-var testData = function($, allGroupsInGivenDay, label) {
-  console.log("----- TESTING ", label.toUpperCase(), " -----");
-  allGroupsInGivenDay.forEach(function(item) {
-    // console.log(item);
-    // var currentGroup = fixIndex(filterEmptyCells(extractTableData($(item))));
-
-    var currentGroup = parseHelper.extractTableData($, $(item));
-    console.log(currentGroup);
-
-    // var groupWithLabels = currentGroup.map(function(x) {
-    //   return {
-    //     "label" : getLabel(extractCellHtml(x.item)).trim(),
-    //     "room" : getRoom(extractCellHtml(x.item)).trim(),
-    //     "start" : getStartTime(x.item, x.index, 5),
-    //     "end" : getEndTime(x.item, x.index, 5),
-    //     "type" : getType(x.item)
-    //   };
-    // });
-    // console.log(JSON.stringify(groupWithLabels, null, 4));
-  });
 };
 
 wrench.readdirRecursive(rawDataFolder, function(error, curFiles) {
@@ -50,8 +27,9 @@ wrench.readdirRecursive(rawDataFolder, function(error, curFiles) {
         $ = cheerio.load(
                         fs.readFileSync(
                                         buildPathToFile(item)));
-
-        var allRows = $("table tr");
-        testData($, parseHelper.monday(allRows), "monday");
+        var replaceWith = "text/html; charset=utf-8";
+        $("meta").attr("content", replaceWith);
+        $("script").remove();
+        fs.writeFileSync(buildPathToFile(item), $.html());
     });
 });
