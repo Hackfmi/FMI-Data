@@ -726,24 +726,151 @@
                             ]
                         },
                         "friday" : {
-                            "groups" : [
-                                [],
-                                [],
-                                [],
-                                [],
-                                []
-                            ]
+                            "groups" : []
                         },
                         "saturday" : {
-                            "groups" : [
-                                [],
-                                [],
-                                [],
-                                [],
-                                []
-                            ]
+                            "groups" : []
                         }
                     }
                 ]
+        },
+        "year4" : {
+            "label" : "Четвърти курс",
+            "flows" : [
+            
+                {
+                    "monday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "УПро",
+                                    "room": "02",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher": "проф. К.Калоянова"
+                                },
+                                {
+                                    "label": "УПро",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": ""
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УПро",
+                                    "room": "02",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher": "проф. К.Калоянова"
+                                },
+                                {
+                                    "label": "УПро",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": ""
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "УПро",
+                                    "room": "02",
+                                    "start": 9,
+                                    "end": 11,
+                                    "type": "lecture",
+                                    "teacher": "проф. К.Калоянова"
+                                },
+                                {
+                                    "label": "УПро",
+                                    "room": "02",
+                                    "start": 11,
+                                    "end": 13,
+                                    "type": "lecture",
+                                    "teacher": ""
+                                }
+                            ]
+                        ]
+                    },
+                    "tuesday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "СистЕ-биз",
+                                    "room": "500",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Павлов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "СистЕ-биз",
+                                    "room": "500",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Павлов"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "СистЕ-биз",
+                                    "room": "500",
+                                    "start": 15,
+                                    "end": 18,
+                                    "type": "lecture",
+                                    "teacher": "доц. П.Павлов"
+                                },
+                                {
+                                    "label": "СистЕ-биз",
+                                    "room": "321 к",
+                                    "start": 18,
+                                    "end": 21,
+                                    "type": "lab"
+                                }
+                            ]
+                        ]
+                    },
+                    "wednesday" : {
+                        "groups" : []
+                    },
+                    "thursday" : {
+                        "groups" : [
+                            [
+                                {
+                                    "label": "СистЕ-биз",
+                                    "room": "320 к",
+                                    "start": 10,
+                                    "end": 13,
+                                    "type": "lab"
+                                }
+                            ],
+                            [
+                                {
+                                    "label": "СистЕ-биз",
+                                    "room": "320 к",
+                                    "start": 13,
+                                    "end": 16,
+                                    "type": "lab"
+                                }
+                            ],
+                            []
+                        ]
+                    },
+                    "friday" : {
+                        "groups" : []
+                    },
+                    "saturday" : {
+                        "groups" : []
+                    }
+                }
+            ]
         }
     }
