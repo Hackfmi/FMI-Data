@@ -1,6 +1,6 @@
 $(document).ready(function() {
   var allRows = $("table tr");
-  var groupsInProgram = prompt("Колко групи има съответната специалност ?");
+  var groupsInProgram = parseInt(prompt("Колко групи има съответната специалност ?"), 10);
   alert("Сега натисни F12 (ако си с chrome)");
 
   var getDay = window.getDay = function(startFromIndex, groupsInProgram) {
