@@ -1,6 +1,7 @@
 $(document).ready(function() {
   var allRows = $("table tr");
-  var groupsInProgram = 5;
+  var groupsInProgram = prompt("Колко групи има съответната специалност ?");
+  alert("Сега натисни F12 (ако си с chrome)");
 
   var getDay = window.getDay = function(startFromIndex, groupsInProgram) {
     var dayRows = [];
@@ -15,30 +16,38 @@ $(document).ready(function() {
     return dayRows;
   };
 
+  var nextDayStart = (function() {
+    var current = 1;
+    return function() {
+      current = current + groupsInProgram;
+      return current;
+    };
+  })();
+
   var monday = window.monday = function() {
-    return getDay(1, 5);
+    return getDay(1, groupsInProgram);
   };
 
   var tuesday = window.tuesday = function() {
-    return getDay(6, 5);
+    return getDay(nextDayStart(), groupsInProgram);
   };
 
   var wednesday = window.wednesday = function() {
-    return getDay(11, 5);
+    return getDay(nextDayStart(), groupsInProgram);
   };
 
   var thursday = window.thursday = function() {
-    return getDay(16, 5);
+    return getDay(nextDayStart(), groupsInProgram);
   };
 
   var friday = window.friday = function() {
     // it's friday, friday, friday !
 
-    return getDay(21, 5);
+    return getDay(nextDayStart(), groupsInProgram);
   };
 
   var saturday = window.saturday = function() {
-    return getDay(26, 5);
+    return getDay(nextDayStart(), groupsInProgram);
   };
 
   var extractTableData = window.extractTableData = function(rows) {
